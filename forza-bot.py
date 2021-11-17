@@ -24,6 +24,7 @@ with open("token.txt", "r") as token_file:
 if not TOKEN:
     sys.exit( "No discord token found" )
 
+
 class Car(object):
     def __init__(self, year, vehicle, value, rarity, speed, handle, accel, launch, brake, offroad, pi, car_type):
         self.year = year
@@ -186,7 +187,6 @@ def lowest_class(cars):
 
 if __name__ == "__main__":
     cars = parse_csv(CAR_CSV)
-    print(type(cars))
 
     for car_type, car_list in cars.items():
         print("Type: {}".format(car_type))

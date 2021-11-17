@@ -1,0 +1,539 @@
+﻿Year,Vehicle,Value,Rarity,Speed,Handling,Acceleration,Launch,Brake,Offroad,PI,Type
+2001,Acura Integra Type-R ,"25,000 CR",COMMON,5.6,5.1,3.9,3.1,3.4,5.1,C596,Retro Hot Hatch
+2017,Acura NSX ,"170,000 CR",COMMON,7,7,9.2,10,7.1,4.7,S1831,Modern Supercars
+2002,Acura RSX Type-S ,"25,000 CR",COMMON,5.6,5.1,3.9,3,3.5,5.3,C585,Retro Hot Hatch
+2017,Alpine A110 ,"67,500 CR",EPIC,6,6.4,5.4,5.7,4.2,4.2,B694,Modern Sports Cars
+1973,Alpine A110 1600S ,"98,000 CR",RARE,5,4.4,4.1,3.1,3,5.3,C550,Classic Rally
+2015,Alumi Craft Class 10 Race Car ,"300,000 CR",EPIC,4.4,3.8,5,4.1,4.8,10,B642,Unlimited Buggies
+1973,AMC Gremlin X ,"35,000 CR",COMMON,4,3.9,3.4,3.4,2.3,5.2,D403,Cult Cars
+2554,AMG Transport Dynamics M12S Warthog CST ,"850,000 CR",LEGENDARY,4.2,4.1,8.6,10,6.7,10,A719,Unlimited Offroad
+2018,Apollo Intensa Emozione ,"1,500,000 CR",LEGENDARY,7.4,10,7.7,8.4,10,3.9,S2963,Extreme Track Toys
+2018,Apollo Intensa Emozione ,"1,500,000 CR",COMMON,7.6,10,7.9,8.6,10,3.8,S2998,Extreme Track Toys
+2013,Ariel Atom 500 V8 ,"200,000 CR",RARE,6.3,8.8,7.8,8.5,7.2,3.9,S2924,Extreme Track Toys
+2016,Ariel Nomad ,"93,000 CR",RARE,5.2,4.7,6.5,7.2,4.2,8.1,A711,Unlimited Buggies
+1964,Aston Martin DB5 ,"800,000 CR",RARE,5.4,4,4,3.4,2.7,5.4,C548,Rare Classics
+2017,Aston Martin DB11 ,"300,000 CR",EPIC,7.3,6.5,5.7,6.1,6.1,4.7,A787,Super GT
+2019,Aston Martin DBS Superleggera ,"350,000 CR",EPIC,7.8,6.6,5.8,6.2,6.9,4.5,S1835,Super GT
+2013,Aston Martin V12 Vantage S ,"240,000 CR",EPIC,7.8,6.2,5.4,5.7,6.4,4.4,A796,Super GT
+2019,Aston Martin Valhalla Concept Car ,"1,150,000 CR",RARE,8.5,9.2,10,10,9.4,4.6,S2959,Hypercars
+2019,Aston Martin Vantage ,"430,000 CR",EPIC,7,6.7,6,6.4,6.1,4.6,S1801,GT Cars
+2016,Aston Martin Vantage GT12 ,"400,000 CR",EPIC,6.7,8,5.9,6.1,8.1,4.4,S1829,Track Toys
+2017,Aston Martin Vulcan AMR Pro ,"2,000,000 CR",LEGENDARY,7.7,9.6,6.5,7,10,3.2,S2953,Extreme Track Toys
+1995,Audi Avant RS2 ,"50,000 CR",COMMON,6,5.1,5,5.3,3.2,5.2,B601,Retro Saloons
+2013,Audi R8 Coupe V10 plus 5.2 FSI quattro ,"290,000 CR",EPIC,?,?,?,?,?,?,S1802,Modern Supercars
+2016,Audi R8 V10 plus ,"242,000 CR",EPIC,7.8,7.1,7.8,7.4,7.3,5.1,S1834,Modern Supercars
+2011,Audi RS 3 Sportback ,"42,000 CR",COMMON,6,6.1,5.2,6.5,4.1,5.5,B682,Super Hot Hatch
+2006,Audi RS 4 ,"53,000 CR",COMMON,6.9,6.1,6,5.5,4.4,5.3,A710,Super Saloons
+2001,Audi RS 4 Avant ,"94,000 CR",COMMON,6.4,5.8,5.5,4.7,3.6,5.2,B663,Retro Saloons
+2013,Audi RS 4 Avant ,"83,000 CR",COMMON,7,6.2,5.5,5.2,5.2,5.2,A728,Super Saloons
+2011,Audi RS 5 Coupe ,"88,000 CR",COMMON,6.8,6.2,5.8,5.7,5.9,5.5,A733,Super Saloons
+2003,Audi RS 6 ,"105,000 CR",RARE,6.8,5.7,5.1,5,4.1,5.4,B677,Retro Saloons
+2009,Audi RS 6 ,"155,000 CR",RARE,7.5,6,6.1,6.7,5.8,5.5,A722,Super Saloons
+2015,Audi RS 6 Avant ,"150,000 CR",RARE,7.4,6,7.5,8.3,5.3,5.2,A754,Super Saloons
+2013,Audi RS 7 Sportback ,"225,000 CR",RARE,7.6,5.9,7,8.2,5.6,5.3,A739,Super Saloons
+2015,Audi S1 ,"35,000 CR",COMMON,5.6,5.9,5.2,4.4,3.7,5.6,B644,Hot Hatch
+1983,Audi Sport quattro ,"175,000 CR",RARE,5.7,5,5.5,2.9,4,5.7,B638,Retro Rally
+2010,Audi TT RS Coupe ,"66,000 CR",RARE,6.6,6.1,5.8,7,4.4,5.4,A707,Modern Sports Cars
+2015,Audi TTS Coupe ,"52,000 CR",COMMON,6.7,6.3,5.8,6.4,4,5.2,A724,Modern Sports Cars
+1958,Austin-Healey Sprite MkI ,"20,000 CR",COMMON,3.1,3.7,1.9,2.5,1.8,4.9,D131,Classic Sports Cars
+1939,Auto Union Type D ,"15,000,000 CR",LEGENDARY,8.4,4.2,4.5,3.4,2.7,4.2,B675,Vintage Racers
+2014,BAC Mono ,"160,000 CR",EPIC,6.1,8.1,6.3,6.7,8.1,3.9,S1868,Track Toys
+1931,Bentley 4-1/2 Litre Supercharged ,"4,000,000 CR",RARE,3.7,3.3,2.1,2.3,1.9,5.8,D207,Vintage Racers
+1930,Bentley 8 Litre ,"1,500,000 CR",RARE,3.7,3.5,2.4,1.8,1.8,5.7,D181,Rare Classics
+2016,Bentley Bentayga ,"180,000 CR",RARE,7,5,6.2,7.4,4,6.5,A727,Sports Utility Heroes
+2017,Bentley Continental Supersports ,"200,000 CR",EPIC,7.6,6.1,8,9.1,5.8,4.9,A769,GT Cars
+2011,BMW 1 Series M Coupe ,"55,000 CR",COMMON,6.4,5.9,5.2,5.4,4.5,4.8,A712,Super Saloons
+1973,BMW 2002 Turbo ,"26,000 CR",LEGENDARY,4.9,4.3,3.8,1.5,2.8,5.6,C531,Classic Sports Cars
+2015,BMW i8 ,"140,000 CR",RARE,7.2,6.4,7.7,8.7,4.6,4.9,A764,Modern Supercars
+1957,BMW Isetta 300 Export ,"45,000 CR",COMMON,1.8,3.4,1.2,2.7,2.4,4.7,D100,Cult Cars
+1981,BMW M1 ,"585,000 CR",RARE,5.9,5,4.4,3.1,3.2,4.7,B629,Retro Supercars
+2016,BMW M2 Coupe ,"69,000 CR",COMMON,6.5,5.7,5.2,5.5,4.6,4.8,A718,Super Saloons
+1991,BMW M3 ,"70,000 CR",COMMON,5.6,4.7,4.3,3.4,3.1,4.9,C583,Retro Saloons
+1997,BMW M3 ,"35,000 CR",COMMON,6.5,4.9,4.9,5.2,3.6,5.2,B665,Retro Saloons
+2005,BMW M3 ,"33,000 CR",COMMON,6.4,5.3,5,5,3.8,5,B675,Retro Saloons
+2008,BMW M3 ,"48,000 CR",COMMON,6.8,5.8,5,5.3,4.5,4.5,A725,Super Saloons
+2002,BMW M3-GTR ,"180,000 CR",RARE,6.7,6.5,5.4,5.7,4.9,4.7,A747,Track Toys
+2014,BMW M4 Coupe ,"92,000 CR",RARE,7.1,6.2,5.3,5.6,6.5,4.7,A782,Super Saloons
+2016,BMW M4 GTS ,"145,000 CR",EPIC,?,?,?,?,?,?,S1814,Track Toys
+1988,BMW M5 ,"54,000 CR",COMMON,5.8,4.4,4.3,3.9,3.1,5.1,C583,Retro Saloons
+1995,BMW M5 ,"25,000 CR",RARE,6.7,5.2,4.6,4.2,3.6,4.8,B634,Retro Saloons
+2003,BMW M5 ,"30,000 CR",COMMON,7.1,5.5,5,5.2,3.8,5.1,B694,Retro Saloons
+2009,BMW M5 ,"90,000 CR",COMMON,7.1,5.9,5.1,4.9,4.4,4.9,A719,Super Saloons
+2012,BMW M5 ,"112,000 CR",RARE,7.4,6,5.3,5.6,4.8,4.6,A766,Super Saloons
+2018,BMW M5 ,"105,000 CR",RARE,7.6,6.1,8.7,9.7,6.2,5.1,A784,Super Saloons
+2013,BMW M6 Coupe ,"120,000 CR",RARE,7.5,5.8,5,5.2,5.9,4.6,A758,GT Cars
+2011,BMW X5 M ,"100,000 CR",COMMON,6.4,4.8,5.9,6.6,3.7,6.4,B666,Sports Utility Heroes
+2011,BMW X5 M Forza Edition  ,"500,000 CR",FORZA EDITION,8,10,10,10,9.4,4.4,S2998,Extreme Track Toys
+2015,BMW X6 M ,"130,000 CR",EPIC,?,?,?,?,?,?,B687,Sports Utility Heroes
+2002,BMW Z3 M Coupe ,"30,000 CR",COMMON,6.1,5.3,4.9,5,3.7,4.9,B675,Retro Sports Cars
+2019,BMW Z4 ,"35,000 CR",COMMON,6.7,6,5.6,6,4.4,4.6,A751,Modern Sports Cars
+2008,BMW Z4 M Coupe ,"82,000 CR",COMMON,6.4,5.8,5.4,4.9,4.3,5.2,B694,Modern Sports Cars
+2018,Bugatti Chiron ,"2,400,000 CR",LEGENDARY,10,7.9,9.9,6.1,8.6,5,S2927,Hypercars
+2019,Bugatti Divo ,"3,000,000 CR",LEGENDARY,9.6,9.9,10,6.2,9.5,4.4,S2958,Extreme Track Toys
+1992,Bugatti EB110 Super Sport ,"1,700,000 CR",LEGENDARY,8.3,6.5,8,3.8,5.2,4.9,S1805,Retro Supercars
+1926,Bugatti Type 35 C ,"1,300,000 CR",RARE,4,3.4,2.5,1.4,1.9,4.9,D285,Vintage Racers
+2011,Bugatti Veyron Super Sport ,"2,200,000 CR",LEGENDARY,9.9,7.9,10,5.9,8.6,4.9,S2913,Hypercars
+1970,Buick GSX ,"80,000 CR",RARE,5.1,3.5,3.3,3.2,2.5,5.1,C558,Classic Muscle
+1987,Buick Regal GNX ,"130,000 CR",RARE,5.7,4,3.8,2.5,2.5,5.5,C564,Retro Muscle
+2016,Cadillac ATS-V ,"65,000 CR",COMMON,7,5.5,5.2,3.4,4.2,5.1,A716,Modern Muscle
+2016,Cadillac CTS-V Sedan ,"80,000 CR",COMMON,7.2,5.3,4.9,5.2,4.4,4.7,A761,Modern Muscle
+2018,Can-Am Maverick X RS Turbo R ,"25,000 CR",COMMON,3.9,3.7,6.8,9.6,4.5,9.7,B607,UTV's
+2013,Caterham Superlight R500 ,"82,000 CR",RARE,5.6,5.4,5.7,6.2,4.6,3.9,A786,Track Toys
+1955,Chevrolet 150 Utility Sedan ,"35,000 CR",COMMON,4.5,3.5,3.2,2.5,2,5.8,D360,Rods and Customs
+1957,Chevrolet Bel Air ,"130,000 CR",RARE,4.8,3.8,2.8,1.6,2.1,6,D432,Rods and Customs
+1969,Chevrolet Camaro Super Sport Coupe ,"110,000 CR",RARE,5,4.2,3.8,2.9,3.1,5.8,C585,Classic Muscle
+2015,Chevrolet Camaro Z/28 ,"86,000 CR",RARE,6.7,6.8,5.5,5.4,7.2,4.4,A797,Track Toys
+1970,Chevrolet Camaro Z28 ,"53,000 CR",COMMON,5.1,3.7,3.4,3.3,2.4,4.9,C539,Classic Muscle
+1979,Chevrolet Camaro Z28 ,"35,000 CR",RARE,4.5,4.1,3.5,2.9,2.5,5.4,D466,Classic Muscle
+2017,Chevrolet Camaro ZL1 ,"60,000 CR",RARE,7.3,7.2,6.1,4.9,5.6,4.8,S1821,Modern Muscle
+2018,Chevrolet Camaro ZL1 1LE ,"105,000 CR",RARE,6.9,7.8,5.8,5.2,6,4.3,S1824,Track Toys
+1970,Chevrolet Chevelle Super Sport 454 ,"80,000 CR",COMMON,4.7,3.6,3.3,3.2,2.4,5.4,C531,Classic Muscle
+2017,Chevrolet Colorado ZR2 ,"46,000 CR",COMMON,5.4,3,3.9,3.4,3,8.2,C530,Pickups & 4x4s
+1953,Chevrolet Corvette ,"210,000 CR",LEGENDARY,3.6,4,2.3,1.1,2,5.6,D366,Classic Sports Cars
+1953,Chevrolet Corvette Forza Edition ,"500,000 CR",FORZA EDITION,6.5,6.1,5.8,6.2,4.8,3.7,A800,Classic Racers
+1960,Chevrolet Corvette ,"210,000 CR",EPIC,?,?,?,?,?,?,C541,Classic Sports Cars
+1967,Chevrolet Corvette Stingray 427 ,"150,000 CR",RARE,5.5,4.3,3.9,3,3.1,5.8,B623,Classic Muscle
+2020,Chevrolet Corvette Stingray Coupe ,"65,000 CR",RARE,7.2,7,6.9,7.6,5.2,4.8,S1806,Modern Supercars
+2002,Chevrolet Corvette Z06 ,"35,000 CR",COMMON,7.2,5.8,4.6,4.5,3.9,4.5,A722,Retro Muscle
+2015,Chevrolet Corvette Z06 ,"110,000 CR",RARE,7.8,7,6,6.5,7.7,4.4,S1852,Modern Muscle
+2009,Chevrolet Corvette ZR1 ,"125,000 CR",RARE,7.8,6.2,5.5,4.6,6.6,4.4,S1809,Modern Muscle
+2019,Chevrolet Corvette ZR1 ,"255,000 CR",EPIC,7.8,7.7,6.5,7,7.9,4,S1871,Track Toys
+1970,Chevrolet Corvette ZR-1 ,"310,000 CR",EPIC,?,?,?,?,?,?,B610,Classic Muscle
+1995,Chevrolet Corvette ZR-1 ,"45,000 CR",COMMON,6.5,5.2,4.8,4,3.7,4.5,B693,Retro Muscle
+1970,Chevrolet El Camino Super Sport 454 ,"65,000 CR",RARE,5.9,3.6,3.2,3.1,2.4,5.5,C544,Vans & Utility
+1996,Chevrolet Impala Super Sport ,"20,000 CR",COMMON,5,4.3,3.6,2.6,2.7,5.2,C509,Retro Muscle
+1964,Chevrolet Impala Super Sport 409 ,"46,000 CR",COMMON,5.5,3.6,3.4,3,2.3,5.4,C544,Rods and Customs
+1988,Chevrolet Monte Carlo Super Sport ,"25,000 CR",COMMON,5,4,3.1,2.3,2,5,D396,Retro Muscle
+1969,Chevrolet Nova Super Sport 396 ,"47,000 CR",COMMON,5.4,3.9,3.5,2.9,2.4,5.3,C545,Classic Muscle
+1970,Datsun 510 ,"25,000 CR",COMMON,3.7,3.7,2.8,2.3,1.9,5,D264,Cult Cars
+2018,DeBerti Chevrolet Silverado 1500 Drift Truck ,"300,000 CR",EPIC,6.7,4.8,4.9,5.1,5.2,4,A798,Drift Cars
+2018,DeBerti F-150 Prerunner ,"250,000 CR",EPIC,5.7,3.6,5.4,5.8,4.9,9.9,B691,Unlimited Offroad
+2019,DeBerti Toyota Tacoma TRD ,"500,000 CR",COMMON,6.4,5.6,4.9,5.1,6.9,4.7,S1836,Drift Cars
+2013,DeBerti Wrangler Unlimited ,"200,000 CR",EPIC,4.7,4,6.3,4.8,4.4,9.3,A749,Unlimited Offroad
+1982,DeLorean DMC-12 Season Events,"15,000 CR",LEGENDARY,4.3,4.9,2.8,2.3,3.1,6,D464,Retro Supercars
+1970,Dodge Challenger R/T ,"210,000 CR",RARE,5.5,3.8,3.4,3.3,2.5,5,C551,Classic Muscle
+2018,Dodge Challenger SRT Demon ,"150,000 CR",RARE,7.8,5.5,4.8,5,5.3,4.6,A786,Modern Muscle
+2015,Dodge Challenger SRT Hellcat ,"75,000 CR",RARE,7.7,5.4,4.5,4.6,4.9,4.2,A755,Modern Muscle
+1969,Dodge Charger Daytona HEMI ,"900,000 CR",RARE,7.8,5.3,4.7,4.9,5,4.7,A762,Classic Muscle
+1969,Dodge Charger R/T ,"103,000 CR",RARE,5.1,3.8,3.6,3.5,2.4,5.1,C548,Classic Muscle
+1969,Dodge Charger R/T Forza Edition  ,"70,000 CR",FORZA EDITION,6.6,7.9,7.1,7.3,7.3,3.9,S1900,Track Toys
+2015,Dodge Charger SRT Hellcat ,"80,000 CR",RARE,7.8,5.3,4.7,4.9,5,4.7,A762,Modern Muscle
+1968,Dodge Dart HEMI Super Stock ,"300,000 CR",LEGENDARY,4.5,3.6,4.1,4.2,2.9,4.9,B650,Classic Muscle
+2018,Dodge Durango SRT ,"70,000 CR",COMMON,6.3,3.8,5.8,5.6,3.7,6.7,B666,Sports Utility Heroes
+2013,Dodge SRT Viper GTS ,"95,000 CR",RARE,7.6,6.1,5.5,4.6,5.8,4.7,S1813,Modern Muscle
+2016,Dodge Viper ACR ,"150,000 CR",EPIC,6.7,8.6,6.2,5.3,9.4,4.4,S1873,Track Toys
+1999,Dodge Viper GTS ACR ,"75,000 CR",LEGENDARY,6.9,5.5,5.2,4.1,4,4.5,A717,Retro Muscle
+2008,Dodge Viper SRT10 ACR ,"90,000 CR",RARE,7.2,7.9,5.6,4.7,7.5,4.8,S1844,Track Toys
+2018,Exomotive Exocet Off-Road ,"50,000 CR",RARE,4.5,4.8,5.3,5.7,5.2,8.6,B682,Unlimited Buggies
+2018,Exomotive Exocet Off-Road Forza Edition ,"500,000 CR",FORZA EDITION,4.5,5.6,9.4,10,7.3,7.6,A800,Rally Monsters
+1967,Ferrari #24 Ferrari Spa 330 P4 ,"9,000,000 CR",LEGENDARY,?,?,?,?,?,?,A780,Classic Racers
+1957,Ferrari 250 California ,"18,500,000 CR",EPIC,5.4,4,3.4,2.3,2.8,5.7,C564,Rare Classics
+1962,Ferrari 250 GTO ,"50,000,000 CR",LEGENDARY,6.4,3.9,3.5,2.5,2.8,5.2,B612,Classic Racers
+1957,Ferrari 250 Testa Rossa ,"16,400,000 CR",LEGENDARY,6.3,4.4,4.5,4.2,2.9,4.5,B691,Classic Racers
+1984,Ferrari 288 GTO ,"3,500,000 CR",LEGENDARY,7.4,5.6,5.6,3.1,4.2,4.7,A750,Retro Supercars
+2003,Ferrari 360 Challenge Stradale ,"200,000 CR",EPIC,7,6.8,6.1,5.6,6.6,4.7,A773,Retro Supercars
+1968,Ferrari 365 GTB/4 ,"600,000 CR",RARE,7,4.4,4.4,3.1,3,5.4,B637,Rare Classics
+2007,Ferrari 430 Scuderia ,"300,000 CR",EPIC,7.6,6.9,6.2,6.4,6.9,4.3,S1810,Modern Supercars
+2009,Ferrari 458 Italia ,"225,000 CR",EPIC,7.9,7.2,6.3,6.8,6.9,4.1,S1823,Modern Supercars
+2013,Ferrari 458 Speciale ,"340,000 CR",EPIC,?,?,?,?,?,?,S1865,Track Toys
+2015,Ferrari 488 GTB ,"290,000 CR",EPIC,8.2,7.9,6.8,6.5,7.8,4.4,S1863,Modern Supercars
+2019,Ferrari 488 Pista ,"320,000 CR",EPIC,7.6,8.2,7,7.6,8.4,4.2,S1889,Track Toys
+2012,Ferrari 599XX Evolution ,"2,600,000 CR",LEGENDARY,8,9.8,7.3,7.9,10,3.8,S2952,Extreme Track Toys
+2017,Ferrari 812 Superfast ,"350,000 CR",LEGENDARY,7.9,7.5,6.2,6.6,7.6,4,S1878,Super GT
+1969,Ferrari Dino 246 GT ,"425,000 CR",LEGENDARY,?,?,?,?,?,?,C535,Rare Classics
+2002,Ferrari Enzo Ferrari ,"2,800,000 CR",LEGENDARY,8.1,7.5,6.4,6.9,8.3,4.7,S1857,Retro Supercars
+2015,Ferrari F12tdf ,"500,000 CR",EPIC,8.8,7.6,6.5,7,8.4,4.8,S1884,Super GT
+1994,Ferrari F355 Berlinetta ,"190,000 CR",RARE,6.8,6.1,4.5,3.6,4.3,4.9,A717,Retro Supercars
+1987,Ferrari F40 ,"1,200,000 CR",LEGENDARY,7.3,6.5,6.3,2.6,5.3,5,A784,Retro Supercars
+1989,Ferrari F40 Competizione ,"2,000,000 CR",LEGENDARY,?,?,?,?,?,?,S2947,Extreme Track Toys
+1995,Ferrari F50 ,"2,000,000 CR",LEGENDARY,7.3,6.5,5.7,5,5.6,4.8,A789,Retro Supercars
+1996,Ferrari F50 GT ,"2,000,000 CR",LEGENDARY,8.1,10,7,7.1,10,4.1,S2976,Extreme Track Toys
+2005,Ferrari FXX ,"2,500,000 CR",LEGENDARY,8.4,10,8.1,8.9,10,4.4,S2956,Extreme Track Toys
+2014,Ferrari FXX K ,"2,700,000 CR",LEGENDARY,8.1,10,8.1,9,10,3.6,S2979,Extreme Track Toys
+2017,Ferrari GTC4Lusso ,"300,000 CR",EPIC,?,?,?,?,?,?,S1816,Super GT
+2013,Ferrari LaFerrari ,"1,500,000 CR",LEGENDARY,?,?,?,?,?,?,S2934,Hypercars
+2018,Ferrari Portofino ,"215,000 CR",EPIC,7.8,6.5,6.3,6.8,6.8,4.7,S1814,Super GT
+1966,Ford #2 GT40 MK II Le Mans ,"11,000,000 CR",LEGENDARY,7.5,5,4.3,3.5,3.8,4.7,A771,Classic Racers
+1977,Ford #5 Escort RS1800 MKII ,"300,000 CR",RARE,4.4,4.5,5,5.3,3.8,7,B662,Classic Rally
+2014,Ford #11 Rockstar F-150 Trophy Truck ,"500,000 CR",EPIC,5.6,3.3,4.6,4.5,4.8,9.1,A731,Unlimited Offroad
+2017,Ford #14 Rahal Letterman Lanigan Racing GRC Fiesta ,"500,000 CR",EPIC,?,?,?,?,?,?,S1860,Rally Monsters
+2017,Ford #25 ,"500,000 CR",COMMON,4.7,4.1,6.1,5.2,5.2,10,A748,Unlimited Offroad
+2018,Ford #25 Mustang RTR ,"500,000 CR",EPIC,5.9,5.3,5.2,5.5,4.7,4.1,S1834,Drift Cars
+2018,Ford #88 Mustang RTR ,"500,000 CR",EPIC,5.9,5.3,5.2,5.5,4.7,4.1,S1834,Drift Cars
+2019,Ford #2069 Ford Performance Bronco R ,"250,000 CR",COMMON,4.2,4.1,3.2,5.2,4.8,10,C544,Pickups & 4x4s
+2019,Ford #2069 Ford Bronco R ,"250,000 CR",COMMON,6.1,3.9,8.8,9.9,5.4,9.9,A800,Pickups & 4x4s
+1959,Ford Anglia 105E ,"20,000 CR",COMMON,2.6,4.1,1.6,2.6,2,6.1,D100,Cult Cars
+1975,Ford Bronco ,"38,000 CR",COMMON,4.3,3,3.5,2.8,2.1,8,D421,Pickups & 4x4s
+2021,Ford Bronco ,"55,000 CR",RARE,4.9,3.5,4,6.1,3.4,8.4,C560,Pickups & 4x4s
+1973,Ford Capri RS3100 ,"55,000 CR",COMMON,4.8,4.1,3.8,3.3,2.5,5.2,D497,Classic Sports Cars
+2010,Ford Crown Victoria Police Interceptor ,"25,000 CR",COMMON,5.2,4.1,3.1,1.9,2.5,5.6,D462,Retro Muscle
+1940,Ford De Luxe Coupe ,"44,000 CR",COMMON,3.2,3.6,2.1,2.2,1.8,6.1,D130,Rods and Customs
+1932,Ford De Luxe Five-Window Coupe ,"35,000 CR",COMMON,3.2,3.9,1.9,2.8,1.8,4.8,D126,Rods and Customs
+1932,Ford De Luxe Five-Window Coupe Forza Edition  ,"294,000 CR",FORZA EDITION,6.6,3,5.8,6.3,5.8,8.5,A800,Rods and Customs
+1992,Ford Escort RS Cosworth ,"66,000 CR",RARE,5.2,4.8,4.3,2.8,3.1,5.2,C565,Retro Rally
+1986,Ford Escort RS Turbo ,"25,000 CR",COMMON,4.5,4.2,3.8,3.7,2.8,3.9,C516,Retro Hot Hatch
+1973,Ford Escort RS1600 ,"73,000 CR",COMMON,4.2,4.1,3.7,2.7,2.9,5.9,D476,Classic Rally
+1977,Ford Escort RS1800 ,"88,000 CR",COMMON,4.2,4.2,3.6,3,2.8,6,D477,Classic Rally
+1965,Ford F-100 ,"36,000 CR",LEGENDARY,3.8,2.7,3.1,3,2.1,6.9,D302,Classic Muscle
+2017,Ford F-150 Raptor ,"63,000 CR",COMMON,4.9,3.3,4.8,4,3.3,8.7,C559,Pickups & 4x4s
+2011,Ford F-150 SVT Raptor ,"42,000 CR",COMMON,5.3,3.3,4.1,3.1,2.8,8.6,C518,Pickups & 4x4s
+2015,Ford Falcon GT F 351 ,"60,000 CR",COMMON,7.1,5.5,4.8,5,4.4,4.7,A718,Modern Muscle
+1972,Ford Falcon XA GT-HO ,"80,000 CR",RARE,6.3,4.2,4,3.3,2.9,5.4,B624,Classic Muscle
+2014,Ford Fiesta ST ,"25,000 CR",COMMON,5.2,5.1,4.1,4.2,3.5,4.9,B607,Hot Hatch
+1981,Ford Fiesta XR2 ,"25,000 CR",EPIC,3.8,4.4,3.1,2.4,2.5,5.1,D369,Retro Hot Hatch
+2003,Ford Focus RS ,"30,000 CR",COMMON,5.1,5.1,4.1,3.6,3.5,4.6,C593,Hot Hatch
+2009,Ford Focus RS ,"25,000 CR",COMMON,5.6,5.5,4.4,4.5,3.9,4.7,B660,Super Hot Hatch
+2017,Ford Focus RS ,"59,000 CR",EPIC,6.2,6,5.8,3.7,4.2,5.5,A702,Super Hot Hatch
+2014,Ford FPV Limited Edition Pursuit Ute ,"50,000 CR",COMMON,6.3,5,4.7,4.9,3.7,5.1,B685,Vans & Utility
+2005,Ford GT ,"300,000 CR",EPIC,7.7,6.6,4.7,3.3,5.3,5.1,A786,Retro Supercars
+2017,Ford GT ,"400,000 CR",EPIC,8.3,7.1,6.6,3.6,8.5,4.4,S1863,Modern Supercars
+1964,Ford GT40 Mk I ,"11,000,000 CR",LEGENDARY,?,?,?,?,?,?,A754,Classic Racers
+1970,Ford GT70 ,"150,000 CR",RARE,5.1,5.5,4.2,3.1,3.4,7.3,B671,Classic Rally
+1966,Ford Lotus Cortina ,"50,000 CR",COMMON,4,3.9,3.5,2.6,2.3,5.3,D389,Classic Racers
+2017,Ford M-Sport Fiesta RS ,"500,000 CR",EPIC,5.1,6.1,8.7,9.7,6.1,8.5,S1808,Rally Monsters
+1969,Ford Mustang Boss 302 ,"230,000 CR",RARE,5.5,4.4,3.2,2.3,3,5.8,C581,Classic Muscle
+2018,Ford Mustang GT ,"40,000 CR",COMMON,6.9,5.5,5.2,5.5,4.4,4.9,A756,Modern Muscle
+1968,Ford Mustang GT 2+2 Fastback ,"50,000 CR",LEGENDARY,?,?,?,?,?,?,D498,Classic Muscle
+1965,Ford Mustang GT Coupe ,"46,000 CR",COMMON,5.1,3.6,3.3,3.2,2.3,5.4,D499,Classic Muscle
+2018,Ford Mustang RTR Spec 5 ,"105,000 CR",RARE,6.5,6.2,5.1,5.4,4.8,4.6,A757,Modern Muscle
+2020,Ford Mustang Shelby GT500 ,"100,000 CR",RARE,7.7,6.6,5.8,6.1,5.6,4.8,S1836,Modern Muscle
+1967,Ford Racing Escort Mk1 ,"500,000 CR",LEGENDARY,4.5,4.8,4.6,3.5,4.1,7.3,B636,Classic Rally
+1999,Ford Racing Puma ,"20,000 CR",RARE,4.9,4.6,3.5,2.7,3.3,5,C514,Retro Rally
+1999,Ford Racing Puma Forza Edition  ,"500,000 CR",FORZA EDITION,5.7,6.3,9.4,6,5.8,8,S1900,Rally Monsters
+2019,Ford Ranger Raptor ,"58,000 CR",EPIC,?,?,?,?,?,?,D451,Pickups & 4x4s
+2014,Ford Ranger T6 Rally Raid ,"250,000 CR",RARE,4.4,4.8,5.4,7.8,4,8.4,B643,Offroad
+1985,Ford RS200 Evolution ,"260,000 CR",EPIC,5.4,5.7,6.9,2.3,5,7.8,S1808,Rally Monsters
+2016,Ford Shelby GT350R ,"75,000 CR",RARE,7.2,6.8,6.1,6.2,6.1,5.3,S1815,Track Toys
+2013,Ford Shelby GT500 ,"115,000 CR",RARE,7.4,5.2,4.7,4.6,4.3,4.9,A756,Modern Muscle
+1987,Ford Sierra Cosworth RS500 ,"66,000 CR",COMMON,5.6,4.8,4.3,3.3,3.4,4.8,B604,Retro Saloons
+2020,Ford Super Duty F-450 DRW Platinum ,"70,000 CR",COMMON,4.6,3.1,4.3,7.3,2.7,8.1,D466,Pickups & 4x4s
+1994,Ford Supervan 3 ,"500,000 CR",EPIC,5.2,8,7.4,5.5,7.9,4.6,S1820,Track Toys
+1993,Ford SVT Cobra R ,"28,000 CR",COMMON,5.3,4.5,3.7,2.9,2.9,4.7,C539,Retro Muscle
+2000,Ford SVT Cobra R ,"55,000 CR",COMMON,6.7,5,4,4,3.4,4.5,B648,Retro Muscle
+1965,Ford Transit ,"25,000 CR",COMMON,2.5,4.2,1.3,1.8,1.8,6.3,D100,Vans & Utility
+2011,Ford Transit SuperSportVan ,"50,000 CR",RARE,4.5,4,2.7,3.1,2.3,5.4,D347,Vans & Utility
+2015,Formula Drift #13 Ford Mustang ,"300,000 CR",EPIC,5.8,5.4,5.1,5.4,4.7,4.1,S1825,Drift Cars
+1995,Formula Drift #34 Toyota Supra MkIV  ,"300,000 CR",EPIC,7.7,5.6,5.2,3.7,5.6,4.2,S1845,Drift Cars
+2006,Formula Drift #43 Dodge Viper SRT10 ,"300,000 CR",EPIC,7.3,5.4,5.3,5.6,4.9,3.7,S1826,Drift Cars
+2018,Formula Drift #64 Nissan 370Z ,"300,000 CR",EPIC,7.3,5.4,5.2,5.5,4.4,4,S1843,Drift Cars
+2020,Formula Drift #91 BMW M2  ,"300,000 CR",EPIC,6.7,5.3,5.2,5.6,5,3.9,S1839,Drift Cars
+1989,Formula Drift #98 BMW 325i ,"300,000 CR",EPIC,6.9,5.1,5,5.2,4.2,4.1,S1813,Drift Cars
+2009,Formula Drift #99 Mazda RX-8  ,"300,000 CR",EPIC,6.7,5.4,4.7,3.2,4.5,4,S1829,Drift Cars
+2007,Formula Drift #117 599 GTB Fiorano ,"500,000 CR",EPIC,6.8,5.3,5.7,6.1,4.7,4.4,S1852,Hot Hatch
+2020,Formula Drift #151 Toyota GR Supra  ,"300,000 CR",EPIC,6.2,5.3,5.5,3.6,5.6,4.1,S1863,Drift Cars
+2017,Formula Drift #357 Chevrolet Corvette Z06  ,"300,000 CR",EPIC,8.9,5.5,5.1,5.4,4.9,4.4,S1835,Drift Cars
+2019,Formula Drift #411 Toyota Corolla Hatchback  ,"300,000 CR",EPIC,7,5.2,5,5.2,5.5,4.2,S1840,Drift Cars
+2016,Formula Drift #530 HSV Maloo Gen-F ,"300,000 CR",EPIC,7.6,5.3,4.6,4.8,4.3,4.1,S1808,Drift Cars
+2013,Formula Drift #777 Chevrolet Corvette ,"300,000 CR",EPIC,6.4,5.5,5.1,5.4,4.8,3.6,S1848,Drift Cars
+1997,Formula Drift #777 Nissan 240SX ,"300,000 CR",EPIC,6.7,5.3,5.2,5.5,4.4,4,S1826,Drift Cars
+1975,Forsberg Racing Nissan ,"100,000 CR",RARE,6.7,6.3,6.1,4.1,4.8,4.1,A791,Retro Sports Cars
+2010,Forsberg Racing Toyota Gumout 2JZ Camry Stock Car  ,"400,000 CR",RARE,8.3,8.8,4.2,1.7,5.1,3.7,S1900,Track Toys
+2018,Funco Motorsports F9 ,"500,000 CR",EPIC,?,?,?,?,?,?,S1821,Unlimited Buggies
+1970,GMC Jimmy ,"75,000 CR",LEGENDARY,4.4,3.4,4.5,3.6,3.1,9.1,C521,Pickups & 4x4s
+1983,GMC Vandura G-1500 ,"25,000 CR",COMMON,3.6,4,2.3,2.2,2.1,6.5,D226,Vans & Utility
+2019,Hennessey VelociRaptor 6x6 ,"350,000 CR",LEGENDARY,5.2,4,5.5,2.8,4.5,10,B634,Pickups & 4x4s
+2012,Hennessey Venom GT ,"1,200,000 CR",LEGENDARY,9.8,7.4,6.8,7.4,7.8,4.1,S2911,Hypercars
+1973,Holden HQ Monaro GTS 350 ,"75,000 CR",COMMON,4.8,3.9,3.6,3.2,2.5,5.3,C525,Classic Muscle
+1974,Holden Sandman HQ Panelvan ,"55,000 CR",COMMON,4.8,4,3.8,3.1,2.6,5.8,C501,Retro Hot Hatch
+1977,Holden Torana A9X ,"130,000 CR",RARE,4.9,4,3.4,2.8,2.7,5.2,C517,Classic Muscle
+2016,Honda Civic Coupe Season Events,"155,000 CR",EPIC,?,?,?,?,?,?,S1861,Rally Monsters
+1984,Honda Civic CRX Mugen Season Events,"40,000 CR",COMMON,?,?,?,?,?,?,D499,Rally Monsters
+1974,Honda Civic RS ,"25,000 CR",COMMON,3.9,4.2,2.4,3,2.4,5.1,D368,Retro Hot Hatch
+1997,Honda Civic Type R ,"25,000 CR",COMMON,5.5,4.8,3.7,3,3,4.7,C553,Retro Hot Hatch
+2004,Honda Civic Type R ,"25,000 CR",COMMON,5.4,5,4.1,3.7,3.5,5.1,C600,Retro Hot Hatch
+2007,Honda Civic Type R ,"20,000 CR",COMMON,5.3,5.4,4,3.2,3.7,5.2,C574,Hot Hatch
+2016,Honda Civic Type R ,"38,000 CR",COMMON,6.5,6,4.7,4.8,4.3,4.6,B699,Rally Monsters
+2018,Honda Civic Type R ,"59,000 CR",RARE,6.8,6,4.6,4.8,4.6,4.6,A727,Super Hot Hatch
+1991,Honda CR-X SiR ,"20,000 CR",COMMON,5.1,5.1,3.2,2.3,2.9,5.4,C534,Retro Hot Hatch
+1992,Honda NSX-R ,"90,000 CR",EPIC,6.2,6.1,4.9,3.8,4.3,4.6,B691,Retro Sports Cars
+2005,Honda NSX-R ,"500,000 CR",EPIC,6.4,6.7,5.6,4.4,5.6,4.5,A725,Retro Sports Cars
+2005,Honda NSX-R GT Season Events,"500,000 CR",EPIC,6.4,6.7,5.6,4.4,5.6,4.5,A725,Retro Sports Cars
+1994,Honda Prelude Si ,"20,000 CR",COMMON,5,4.7,3.7,3.1,3.1,5.4,C521,Retro Hot Hatch
+2003,Honda S2000 ,"25,000 CR",COMMON,6,5.4,4.2,3.7,3.3,5,B630,Modern Sports Cars
+2009,Honda S2000 CR ,"25,000 CR",COMMON,5.7,5.7,4.6,3.7,3.7,5,B634,Modern Sports Cars
+1955,Hoonigan Chevrolet Bel Air ,"76,000 CR",RARE,5.7,3.8,4.1,3.1,3,6.4,B621,Rods and Customs
+1972,Hoonigan Chevrolet Napalm Nova ,"50,000 CR",RARE,6.7,5.2,5,5.3,4.7,5,A731,Classic Muscle
+1994,Hoonigan Ford Escort Cosworth WRC ,"500,000 CR",EPIC,5.5,6.1,7.7,4,5.9,7.4,A783,Rally Monsters
+1978,Hoonigan Ford Escort RS1800 ,"300,000 CR",EPIC,6.2,6.7,5.7,6.1,6.3,4.2,S1820,Rally Monsters
+1965,Hoonigan Ford ,"500,000 CR",EPIC,9.2,6.7,10,7.4,5.9,5.5,S2951,Drift Cars
+1986,Hoonigan Ford RS200 Evolution ,"500,000 CR",EPIC,7.6,6.5,9.5,5.1,5.3,8.3,S2904,Rally Monsters
+1991,Hoonigan Gymkhana 10 Ford Escort Cosworth Group A ,"500,000 CR",EPIC,7.8,6.2,9.1,8.7,5.3,7.6,S1862,Rally Monsters
+1965,Hoonigan Gymkhana 10 Ford F-150 'Hoonitruck' ,"500,000 CR",EPIC,6.2,6.5,7.9,8.7,6.7,5.7,S1896,Drift Cars
+2016,Hoonigan Gymkhana 10 Ford Focus RS RX ,"500,000 CR",EPIC,?,?,?,?,?,?,S1864,Rally Monsters
+1965,Hoonigan Gymkhana 10 Ford Hoonicorn Mustang Season Events,"500,000 CR",EPIC,?,?,?,?,?,?,S2952,Classic Rally
+1992,Hoonigan Mazda RX-7 Twerkstallion ,"50,000 CR",RARE,?,?,?,?,?,?,A799,Drift Cars
+1991,Hoonigan Rauh-Welt Begriff Porsche 911 Turbo ,"160,000 CR",RARE,6.7,7.7,7.2,4.1,5.3,4,S1811,Retro Supercars
+2011,Hot Wheels Bone Shaker ,"150,000 CR",LEGENDARY,6,5.2,5.7,6.2,4.9,4.2,A790,Rods and Customs
+1969,Hot Wheels Twin Mill ,"110,000 CR",LEGENDARY,8.6,5.2,4.9,5.2,4.5,3.8,A798,Rods and Customs
+2014,HSV GEN-F GTS ,"75,000 CR",COMMON,7,5.5,4.8,4,4.5,4.8,A721,Modern Muscle
+2014,HSV Limited Edition Gen-F GTS Maloo ,"62,000 CR",COMMON,6.5,5.5,4.8,4.6,4.8,4.4,A742,Vans & Utility
+2006,Hummer H1 Alpha ,"112,000 CR",COMMON,4.2,2.9,2,2.5,2.4,8.6,D354,Pickups & 4x4s
+2019,Hyundai Veloster N ,"30,000 CR",EPIC,?,?,?,?,?,?,B645,Super Hot Hatch
+2015,Infiniti Q60 Concept ,"50,000 CR",COMMON,6.8,5.6,4.8,5,4.7,4.6,A735,Super Saloons
+1970,International Scout 800A ,"40,000 CR",COMMON,4.1,3,2.7,3.6,2.1,7.8,D384,Pickups & 4x4s
+2018,Italdesign Zerouno Season Events,"2,400,000 CR",EPIC,7.6,7.7,9.2,8.9,8,4.9,S1869,Sports Utility Heroes
+2010,Jaguar C-X75 ,"1,500,000 CR",LEGENDARY,8.1,7.8,9.4,10,8,4.1,S1880,Modern Supercars
+1956,Jaguar D-Type ,"22,000,000 CR",LEGENDARY,5.6,3.8,3.8,2.6,2.8,4.4,B630,Classic Racers
+1961,Jaguar E-type S1 ,"150,000 CR",RARE,5.2,4.2,4,2.8,2.7,5.2,C525,Classic Racers
+2017,Jaguar F-PACE S ,"55,000 CR",COMMON,6,5,5.4,4.8,3.8,6.5,B674,Sports Utility Heroes
+2016,Jaguar F-TYPE Project 7 ,"190,000 CR",EPIC,7,6.3,5.1,5.4,6.5,4.3,A786,Track Toys
+2015,Jaguar F-TYPE R Coupe ,"110,000 CR",EPIC,7.5,5.9,5.2,5.4,6,4.2,A777,GT Cars
+2018,Jaguar I-Pace ,"87,000 CR",RARE,4.5,4.9,4.5,4.7,3.7,5.8,A705,Sports Utility Heroes
+1964,Jaguar Lightweight E-Type ,"7,500,000 CR",LEGENDARY,6.3,4.4,4.7,4.4,3.4,4.6,B688,Classic Racers
+1959,Jaguar Mk II 3.8 ,"80,000 CR",COMMON,4.6,4.1,3.5,2.8,2.8,5.5,D448,Classic Racers
+1991,Jaguar Sport XJR-15 ,"500,000 CR",LEGENDARY,7.5,8,6,6.3,6.8,4.7,S1828,Retro Hot Hatch
+2015,Jaguar XE-S ,"57,000 CR",COMMON,6.8,5.5,4.7,4.8,3.7,4.9,B671,Super Saloons
+2015,Jaguar XFR-S ,"110,000 CR",RARE,7.5,5.7,5,5.2,4.2,4.6,A728,Super Saloons
+1993,Jaguar XJ220 ,"350,000 CR",LEGENDARY,?,?,?,?,?,?,A786,Retro Supercars
+2012,Jaguar XKR-S ,"100,000 CR",RARE,7.5,6.1,4.9,5.1,4.3,4.4,A756,GT Cars
+1976,Jeep CJ5 Renegade ,"60,000 CR",COMMON,4.6,3.1,4,3.2,2.4,8,D463,Pickups & 4x4s
+2014,Jeep Grand Cherokee SRT ,"45,000 CR",COMMON,6,4.1,6,5.8,4,6.7,B680,Sports Utility Heroes
+2018,Jeep Grand Cherokee Trackhawk ,"73,000 CR",COMMON,6.9,5.1,8.5,7.8,4.9,5.6,A749,Sports Utility Heroes
+2020,Jeep Gladiator Rubicon ,"45,000 CR",COMMON,4.8,3,3.6,3.2,2.5,8.4,D456,Pickups & 4x4s
+2016,Jeep Trailcat ,"75,000 CR",RARE,6.2,3.9,5.5,4.1,4,10,A744,Unlimited Offroad
+2012,Jeep Wrangler Rubicon ,"50,000 CR",COMMON,4.6,3.1,4,3.2,2.4,8,D463,Pickups & 4x4s
+2017,Koenigsegg Agera RS ,"2,000,000 CR",LEGENDARY,10,9.7,7,7.6,9.7,4.3,S2980,Hypercars
+2002,Koenigsegg CC8S ,"400,000 CR",EPIC,8.7,7.6,6.1,3.8,6.4,4.7,S1846,Hypercars
+2008,Koenigsegg CCGT ,"1,000,000 CR",LEGENDARY,?,?,?,?,?,?,S2965,Extreme Track Toys
+2020,Koenigsegg Jesko ,"2,800,000 CR",LEGENDARY,10,10,6.9,7.4,9,4.4,S2971,Hypercars
+2015,Koenigsegg One:1 ,"2,800,000 CR",LEGENDARY,10,9.5,7,7.5,10,4.3,S2983,Hypercars
+2016,Koenigsegg Regera ,"1,900,000 CR",LEGENDARY,9.1,7.9,5.8,6.2,9.2,4.2,S2966,Hypercars
+2013,KTM X-Bow R ,"105,000 CR",RARE,5.2,8,6.8,7.4,7.8,3.9,S1802,Track Toys
+2012,Lamborghini Aventador LP700-4 ,"380,000 CR",EPIC,8.9,7.1,8.2,7.4,7.3,5,S1847,Hypercars
+2016,Lamborghini Aventador Superveloce ,"480,000 CR",EPIC,8.5,7.9,8.7,8,8.1,5,S1872,Hypercars
+2016,Lamborghini Centenario LP 770-4 ,"2,300,000 CR",LEGENDARY,8.3,8.7,8.7,8,8.9,4.6,S1884,Hypercars
+1988,Lamborghini Countach LP5000 QV ,"220,000 CR",EPIC,6.8,6.2,4.7,3.6,4.3,4.8,A735,Retro Supercars
+1999,Lamborghini Diablo GTR ,"1,000,000 CR",EPIC,?,?,?,?,?,?,S1881,Extreme Track Toys
+1997,Lamborghini Diablo SV ,"174,000 CR",RARE,7.7,6.2,5.2,4.2,4.9,4.6,A763,Retro Supercars
+2011,Lamborghini Gallardo LP 570-4 Superleggera ,"280,000 CR",EPIC,?,?,?,?,?,?,S1814,Modern Supercars
+2014,Lamborghini Huracán LP 610-4 ,"240,000 CR",EPIC,7.8,7.1,7.8,7.4,7.1,5,S1838,Unlimited Offroad
+2018,Lamborghini Huracán Performante ,"275,000 CR",EPIC,7.6,8.2,9.8,10,7.9,4.7,S1874,Sports Utility Heroes
+1986,Lamborghini LM 002 ,"180,000 CR",RARE,5.3,3.3,2.9,1.8,3.2,8.7,C562,Pickups & 4x4s
+1967,Lamborghini Miura P400 ,"1,000,000 CR",RARE,5.9,4.9,3.8,2.7,3.1,5.1,B625,Rare Classics
+2010,Lamborghini Murcielago LP 670-4 SV ,"500,000 CR",EPIC,?,?,?,?,?,?,S1818,Modern Supercars
+2008,Lamborghini Reventón ,"1,375,000 CR",LEGENDARY,7.8,7,5.2,4.4,7.1,5.1,S1817,Extreme Track Toys
+2011,Lamborghini Sesto Elemento ,"2,500,000 CR",LEGENDARY,7.8,10,10,10,10,4.6,S2936,Extreme Track Toys
+2011,Lamborghini Sesto Elemento Forza Edition ,? CR,FORZA EDITION,?,?,?,?,?,?,?,Extreme Track Toys
+2019,Lamborghini Urus ,"150,000 CR",RARE,7.1,5.6,6.1,5.1,6.2,6.1,A767,Sports Utility Heroes
+2013,Lamborghini Veneno ,"3,000,000 CR",LEGENDARY,8.2,9.4,8.8,8.1,9.7,4.6,S2910,Hypercars
+1997,Land Rover Defender 90 ,"30,000 CR",COMMON,3.8,3.2,2.7,1.8,2.5,8.2,D366,Pickups & 4x4s
+2020,Land Rover Defender 110 X ,"80,000 CR",COMMON,5.4,3.1,4.7,5,2.9,7.2,C534,Sports Utility Heroes
+1973,Land Rover Range Rover ,"50,000 CR",COMMON,3.3,3.1,2.3,3.5,2.5,7.8,D274,Pickups & 4x4s
+2015,Land Rover Range Rover Sport SVR ,"133,000 CR",RARE,6.5,4,6,6.2,4.1,7.2,A722,Sports Utility Heroes
+2018,Land Rover Range Rover Velar First Edition ,"85,000 CR",RARE,6,4.1,4.4,4.1,3.7,6.9,B638,Sports Utility Heroes
+1997,Land Rover Series III ,"20,000 CR",COMMON,2.6,3,1.6,2.3,2,7.2,D100,Retro Sports Cars
+2010,Lexus LFA ,"500,000 CR",EPIC,7.4,6.6,5.8,6,7,4.5,S1810,Modern Supercars
+2015,Lexus RC F ,"75,000 CR",EPIC,6.7,5.9,5,5.2,5.2,4.8,A741,Super Saloons
+1997,Lexus SC300 ,"25,000 CR",COMMON,5.6,5.1,4,3.1,3,5.5,C555,Retro Sports Cars
+2014,Local Motors Rally Fighter ,"100,000 CR",RARE,6,3.8,4.5,3.6,4,10,A716,Unlimited Offroad
+1969,Lola #6 Penske Sunoco T70 MkIIIB ,"850,000 CR",EPIC,7.1,5.7,7,7.7,4.8,4.2,S1818,Classic Racers
+2016,Lotus 3-Eleven ,"150,000 CR",EPIC,6.5,7.7,7.5,7.8,7.1,4.6,S1839,Track Toys
+1971,Lotus Elan Sprint ,"57,000 CR",COMMON,4.6,4,3.5,2.5,2.4,4.9,D443,Classic Sports Cars
+1997,Lotus Elise GT1 ,"1,800,000 CR",LEGENDARY,6.4,8.1,5.6,3.4,7.1,4.6,A794,Retro Supercars
+1999,Lotus Elise Series 1 Sport 190 ,"81,000 CR",COMMON,5.3,6,5.8,4.8,5.1,4.8,A711,Retro Sports Cars
+2020,Lotus Evija ,"2,500,000 CR",LEGENDARY,7.6,7.9,7.6,8.5,10,3.9,S2994,Hypercars
+2012,Lotus Exige S ,"85,000 CR",RARE,6.4,6.3,6.5,6.2,5.4,4.8,A754,Modern Sports Cars
+2010,Maserati Gran Turismo S ,"156,000 CR",RARE,6.9,6,5.4,4.8,4.5,5,A702,GT Cars
+2010,Maserati Gran Turismo S Forza Edition ,"500,000 CR",FORZA EDITION,7.9,8.9,6.7,7.3,9.6,3.8,S1900,Track Toys
+2017,Maserati Levante S ,"85,000 CR",COMMON,6.6,5,5.1,2.4,4.3,6.4,B696,Sports Utility Heroes
+2008,Maserati MC12 Versione Corsa ,"2,500,000 CR",LEGENDARY,7.6,10,8.1,8.8,10,3.9,S2961,Extreme Track Toys
+2005,Mazda Mazdaspeed MX-5 ,"25,000 CR",COMMON,5.1,5.5,3.4,3.8,3.5,4.6,C587,Retro Sports Cars
+2013,Mazda MX-5 ,"26,000 CR",COMMON,4.8,5.4,3.9,3.4,3.4,5.1,C549,Modern Sports Cars
+2016,Mazda MX-5 ,"35,000 CR",COMMON,5.4,5.6,4.6,4.7,3.7,5.1,B620,Modern Sports Cars
+1994,Mazda MX-5 Miata ,"25,000 CR",COMMON,4.5,4.5,3.4,2.3,2.5,4.9,D445,Retro Sports Cars
+1997,Mazda RX-7 ,"35,000 CR",COMMON,6.6,5.5,4.8,3,3.3,5,B645,Retro Sports Cars
+2002,Mazda RX-7 Spirit R Type-A ,"30,000 CR",COMMON,6.5,5.7,5,3.5,4.1,5,B687,Retro Sports Cars
+2011,Mazda RX-8 R3 ,"27,000 CR",COMMON,5.8,5.5,4.6,3.8,3.7,5.1,B624,Modern Sports Cars
+1990,Mazda Savanna RX-7 ,"25,000 CR",EPIC,?,?,?,?,?,?,C558,Retro Sports Cars
+2015,McLaren 570S Coupe ,"224,000 CR",EPIC,7.3,6.9,6.3,4.4,7.1,4.4,S1824,Modern Supercars
+2018,McLaren 600LT Coupe ,"260,000 CR",EPIC,7.4,7.7,6.7,5.3,7.8,4.3,S1868,Track Toys
+2015,McLaren 650S Coupe ,"420,000 CR",EPIC,7.6,7.2,6.8,4.8,7.5,4.6,S1859,Modern Supercars
+2018,McLaren 720S Coupe ,"340,000 CR",EPIC,?,?,?,?,?,?,S1899,Modern Supercars
+2019,McLaren 720S Spider ,"340,000 CR",EPIC,7.5,7.4,6.9,7.5,8.9,4.4,S1887,Modern Supercars
+1993,McLaren F1 ,"15,000,000 CR",LEGENDARY,?,?,?,?,?,?,S1817,Retro Supercars
+1997,McLaren F1 GT ,"15,000,000 CR",LEGENDARY,8.4,8.2,6.2,5.8,7,4.3,S1866,Retro Supercars
+2020,McLaren GT ,"210,000 CR",COMMON,7.4,6.5,6.6,4.3,5.3,4.6,S1823,Super GT
+2013,McLaren P1 ,"1,350,000 CR",LEGENDARY,9.1,8.4,6.9,7.5,9.5,4.3,S2928,Hypercars
+2018,McLaren Senna ,"1,000,000 CR",LEGENDARY,8,9.3,7.2,7.8,10,4.2,S2934,Hypercars
+2019,McLaren Speedtail ,"2,250,000 CR",LEGENDARY,9.6,7.4,6.8,7.4,7.4,3.7,S2910,Hypercars
+2016,Mercedes-AMG C 63 S Coupe ,"90,000 CR",RARE,7,5.9,5.2,5.5,5.6,4.6,A755,Super Saloons
+2018,Mercedes-AMG E 63 S ,"135,000 CR",EPIC,7.6,6,8.7,9.7,4.8,5.1,A778,Super Saloons
+2018,Mercedes-AMG GT 4-Door Coupe ,"175,000 CR",EPIC,8,5.8,8.4,9.4,4.5,5.2,A768,Super Saloons
+2017,Mercedes-AMG GT R ,"295,000 CR",EPIC,7.5,7,6.4,7,7.2,4.5,S1837,Super GT
+2021,Mercedes-AMG One ,"2,700,000 CR",LEGENDARY,7.7,8.9,7.5,3.2,10,4.7,S2927,UTV's
+2015,Mercedes-Benz #24 Tankpool24 Racing Truck ,"500,000 CR",RARE,5.1,5.6,5.4,5.8,5,5,A702,Trucks
+2015,Mercedes-Benz #24 Tankpool24 Racing Truck Forza Edition ,"750,000 CR",FORZA EDITION,6.1,3.3,8.8,10,5.3,9.7,A800,Unlimited Offroad
+1990,Mercedes-Benz 190E 2.5-16 Evolution II ,"150,000 CR",RARE,6.2,4.9,4,3.6,2.9,4.4,C579,Retro Saloons
+1954,Mercedes-Benz 300 SL Coupe ,"1,200,000 CR",EPIC,5.1,4.2,3.6,2.3,2.4,5.6,D498,Rare Classics
+2013,Mercedes-Benz A 45 AMG ,"65,000 CR",RARE,6.7,6.2,6.6,4.5,4.4,5.1,A707,Super Hot Hatch
+1998,Mercedes-Benz AMG CLK GTR ,"2,000,000 CR",LEGENDARY,7.5,7.6,6.1,5.1,6.5,4.2,S1829,Retro Supercars
+1998,Mercedes-Benz AMG CLK GTR Forza Edition ,"2,250,000 CR",FORZA EDITION,7.8,10,8.2,9,10,3.7,S2998,Extreme Track Toys
+1987,Mercedes-Benz AMG Hammer Coupe ,"165,000 CR",COMMON,7.2,5.5,4.2,3,3.8,4.7,B681,Retro Saloons
+2012,Mercedes-Benz C 63 AMG Coupe Black Series ,"150,000 CR",RARE,7.6,6.1,5.1,5.3,4.9,4.6,A768,Super Saloons
+2013,Mercedes-Benz E 63 AMG ,"105,000 CR",RARE,7.7,6,7,7.8,4.5,5.2,A751,Super Saloons
+2014,Mercedes-Benz G 63 AMG 6x6 ,"525,000 CR",EPIC,5.6,3.6,4,6.6,4.1,9.3,B606,Pickups & 4x4s
+2013,Mercedes-Benz G 65 AMG ,"350,000 CR",RARE,5.9,3.2,6.6,8,3.2,8,B639,Pickups & 4x4s
+2012,Mercedes-Benz SLK 55 AMG ,"78,000 CR",RARE,7.3,5.9,5.4,5.7,4.5,4.8,A740,Modern Sports Cars
+2011,Mercedes-Benz SLS AMG ,"200,000 CR",EPIC,7.6,6.5,5.8,6.2,6.4,4.4,S1804,Super GT
+1929,Mercedes-Benz SSK ,"7,500,000 CR",RARE,4.1,3.6,3,1.8,1.9,5.5,D256,Rare Classics
+2014,Mercedes-Benz Unimog U5023 ,"100,000 CR",RARE,2.8,3.3,1.3,3,2.7,8.7,D103,Trucks
+1939,Mercedes-Benz W154 ,"20,000,000 CR",LEGENDARY,?,?,?,?,?,?,B672,Vintage Racers
+2018,Mercedes-Benz X-Class ,"65,000 CR",COMMON,4.2,3.2,2.4,4.2,2.8,7.8,D368,Pickups & 4x4s
+1970,Mercury Cyclone Spoiler  ,? CR,RARE,?,?,?,?,?,?,D491,Classic Racers
+1971,Meyers Manx ,"35,000 CR",EPIC,?,?,?,?,?,?,D291,Cult Cars
+1971,Meyers Manx Forza Edition ,"500,000 CR",FORZA EDITION,?,?,?,?,?,?,A800,Track Toys
+1986,MG Metro 6R4 ,"125,000 CR",LEGENDARY,?,?,?,?,?,?,S1811,Rally Monsters
+1965,Mini Cooper S ,"30,000 CR",COMMON,3.6,3.2,2.6,2.7,2,4.1,D281,Classic Rally
+2009,Mini John Cooper Works ,"25,000 CR",COMMON,5.4,5,4.1,4.1,3.8,4.7,C598,Hot Hatch
+2018,MINI John Cooper Works Countryman All4 ,"38,500 CR",COMMON,5.1,5,3.8,5.3,3,5.7,C537,Sports Utility Heroes
+2012,Mini John Cooper Works GP ,"38,000 CR",RARE,5.4,4.9,4.2,4.3,3.7,4.6,B628,Hot Hatch
+2014,Mini X-Raid All4 Racing Countryman ,"250,000 CR",EPIC,?,?,?,?,?,?,B632,Cult Cars
+2018,Mini X-Raid John Cooper Works Buggy ,"250,000 CR",RARE,4.5,3.7,4.9,6.6,4.9,10,B632,Offroad
+1995,Mitsubishi Eclipse GSX ,"25,000 CR",COMMON,5.9,4.8,3.9,3.2,2.8,5.4,C543,Retro Sports Cars
+1997,Mitsubishi GTO ,"20,000 CR",COMMON,6.1,5.1,4.5,3.6,3.4,5.5,B610,Retro Sports Cars
+2006,Mitsubishi Lancer Evolution IX MR ,"27,000 CR",COMMON,5.9,5.4,4.7,2.4,3.6,5.6,B632,Modern Rally
+1999,Mitsubishi Lancer Evolution VI GSR ,"28,000 CR",COMMON,5.6,5.3,5.6,3.8,3.7,5.5,B659,Retro Rally
+2004,Mitsubishi Lancer Evolution VIII MR ,"31,000 CR",COMMON,6.2,5.4,5.7,3.1,3.6,5.7,B664,Modern Rally
+2008,Mitsubishi Lancer Evolution X GSR ,"43,000 CR",COMMON,5.7,5.5,5.1,2.9,3.7,5.7,B649,Modern Rally
+2008,Mitsubishi Lancer Evolution X GSR ,"43,000 CR",COMMON,7.1,5.8,9.2,4.6,4.1,8.1,A800,Modern Rally
+1998,Mitsubishi Starion ESI-R ,"20,000 CR",RARE,5.2,5,4.2,3.5,2.9,5.3,C549,Retro Supercars
+2014,Morgan 3 Wheeler ,"50,000 CR",COMMON,4,3.2,3.3,3.2,2.9,4.2,D488,Cult Cars
+1958,Morris Minor 1000 ,"20,000 CR",COMMON,2.7,4,1.6,2.1,1.9,5.6,D100,Cult Cars
+1958,Morris Minor 1000 Forza Edition ,"500,000 CR",FORZA EDITION,?,?,?,?,?,?,A800,Cult Cars
+2010,Mosler MT900S ,"320,000 CR",EPIC,8.2,9.8,7.4,8.1,8.4,4.7,S2919,Extreme Track Toys
+1933,Napier Napier-Railton ,"1,500,000 CR",RARE,6.5,4.1,3.7,3.6,3.1,4.4,B603,Vintage Racers
+1993,Nissan 240SX SE ,"25,000 CR",COMMON,5.1,4.6,3.3,2.5,2.5,5.3,D445,Retro Sports Cars
+2010,Nissan 370Z ,"40,000 CR",COMMON,6.6,5.7,4.8,4.6,3.9,4.8,B688,Modern Sports Cars
+2003,Nissan Fairlady Z ,"35,000 CR",COMMON,6.5,5.5,4.6,4,3.5,4.8,B650,Retro Sports Cars
+2003,Nissan Fairlady Z Forza Edition ,"500,000 CR",FORZA EDITION,5,3,5.4,5.5,6.4,8.3,A800,Unlimited Offroad
+1969,Nissan Fairlady Z 432 ,"170,000 CR",EPIC,?,?,?,?,?,?,D482,Classic Sports Cars
+1994,Nissan Fairlady Z Version S Twin Turbo ,"20,000 CR",COMMON,6,5.2,4.3,2.7,3.2,4.9,B607,Retro Sports Cars
+2017,Nissan GT-R (R35) ,"132,000 CR",RARE,7.5,6.7,8.7,7.8,5.3,4.8,S1814,Modern Supercars
+2012,Nissan GT-R Black Edition (R35) ,"105,000 CR",RARE,7.6,6.7,8.5,8.1,5.3,5,S1810,Modern Supercars
+1995,Nissan Nismo GT-R LM ,"1,100,000 CR",LEGENDARY,5.9,6.6,4.5,3,4,4,B658,Retro Sports Cars
+1990,Nissan Pulsar GTI-R ,"20,000 CR",RARE,5.4,4.8,5.5,3.4,2.9,5.1,C594,Retro Rally
+2004,Nissan Pickup #23 Rally Raid ,"500,000 CR",RARE,4.4,5.5,3.1,4.5,4.8,9.9,C577,Unlimited Offroad
+1998,Nissan R390 (GT1) ,"1,250,000 CR",EPIC,7.1,7.8,6.3,2.5,7.1,3.5,S1859,Retro Supercars
+1992,Nissan Silvia CLUB K's ,"25,000 CR",COMMON,5.5,4.7,3.8,3.5,2.7,4.8,C537,Retro Sports Cars
+1994,Nissan Silvia K's ,"25,000 CR",COMMON,5.8,5.3,4.4,2.7,3.4,5.2,B617,Retro Sports Cars
+1998,Nissan Silvia K's AERO ,"25,000 CR",COMMON,5.7,5.2,4.4,2.5,3.4,5.3,B609,Retro Sports Cars
+2000,Nissan Silvia Spec-R ,"35,000 CR",COMMON,5.9,5.4,4.6,2.6,3.7,5.4,B632,Retro Sports Cars
+1971,Nissan Skyline 2000GT-R ,"60,000 CR",COMMON,4.7,4.4,3.6,2.5,2.6,5,D493,Classic Sports Cars
+1993,Nissan Skyline GT-R V-Spec ,"85,000 CR",RARE,5.8,5.7,4.5,2.7,3.6,5.3,B626,Retro Sports Cars
+1997,Nissan Skyline GT-R V-Spec ,"37,000 CR",COMMON,6.1,5.7,4.8,2.5,3.7,5.4,B635,Retro Sports Cars
+2002,Nissan Skyline GT-R V-Spec II ,"63,000 CR",RARE,6.1,5.6,4.9,2.6,3.6,5.4,B657,Retro Sports Cars
+1987,Nissan Skyline GTS-R (HR31) ,"100,000 CR",COMMON,5.7,4.7,4,2.5,2.7,4.9,C543,Retro Sports Cars
+1973,Nissan Skyline H/T 2000GT-R ,"170,000 CR",RARE,4.7,4.5,3.4,2.2,3,5.8,C518,Classic Sports Cars
+2016,Nissan TITAN Warrior Concept ,"50,000 CR",COMMON,4.7,3.6,3.2,3.6,3.2,8.9,D486,Pickups & 4x4s
+1984,Opel Manta 400 ,"100,000 CR",RARE,5.8,4.9,4.6,4.8,3.7,6.6,B691,Rally Monsters
+2016,Pagani Huayra BC ,"2,700,000 CR",LEGENDARY,?,?,?,?,?,?,S2929,Hypercars
+2016,Pagani Huayra BC Forza Edition ,"2,700,000 CR",FORZA EDITION,8.1,10,8,8.8,10,3.7,S2998,Extreme Track Toys
+2009,Pagani Zonda Cinque Roadster ,"2,100,000 CR",LEGENDARY,7.4,8,6.5,6.9,8.9,4.5,S1896,Hypercars
+2010,Pagani Zonda R ,"1,800,000 CR",LEGENDARY,8,10,7.3,7.9,10,3.9,S2959,Extreme Track Toys
+2011,Penhall The Cholla ,"100,000 CR",RARE,4.1,3.7,5.7,4.8,4.3,10,B655,Unlimited Buggies
+1991,Peugeot 205 Rallye ,"20,000 CR",RARE,4.3,4.4,2.9,3.8,2.5,4.9,D462,Retro Hot Hatch
+1984,Peugeot 205 T16 ,"200,000 CR",LEGENDARY,?,?,?,?,?,?,B616,Retro Rally
+2007,Peugeot 207 Super 2000 ,"150,000 CR",RARE,5.3,6.2,5.9,5.2,5.7,8,A755,Rally Monsters
+1971,Plymouth Cuda 426 HEMI ,"160,000 CR",RARE,5.6,3.7,3.4,3.3,2.4,5.3,C547,Classic Muscle
+2015,Polaris RZR XP 1000 EPS ,"25,000 CR",COMMON,3.4,3.5,3.8,3.8,4.4,9,C501,UTV's
+1977,Pontiac Firebird Trans Am ,"45,000 CR",COMMON,5.1,3.9,3.1,2,2.1,5.7,D418,Classic Muscle
+1987,Pontiac Firebird Trans Am GTA ,"25,000 CR",COMMON,5.5,4.1,3.4,3.1,2.4,4.8,D485,Retro Muscle
+1987,Pontiac Firebird Trans Am GTA Forza Edition ,"500,000 CR",FORZA EDITION,6.9,7.1,5.5,5.8,6.3,3.4,S1900,Track Toys
+1965,Pontiac GTO ,"48,000 CR",COMMON,4.7,3.2,3.1,2.9,2,5.4,D484,Classic Muscle
+1970,Porsche #3 917 LH ,"15,000,000 CR",LEGENDARY,8.2,5.9,7.2,7.1,4.9,4,S1856,Classic Racers
+1989,Porsche #65 Rothsport Racing 911 'Desert Flyer' ,"500,000 CR",EPIC,4.8,5,5.7,4.8,4.1,8.5,B694,Rally Monsters
+1986,Porsche #185 959 Prodrive Rally Raid ,"1,500,000 CR",LEGENDARY,6.1,5.4,7.5,6.1,4.3,7.6,A742,Retro Muscle
+1959,Porsche 356 A 1600 Super ,"240,000 CR",RARE,3.8,3.7,1.8,2.1,1.8,5.4,D241,Rare Classics
+2018,Porsche 718 Cayman GTS ,"90,000 CR",EPIC,6.8,7.3,6.4,7,5.6,4.4,A785,Modern Sports Cars
+1973,Porsche 911 Carrera RS ,"350,000 CR",LEGENDARY,5.2,4.9,5.1,3.7,3.1,5,B601,Rare Classics
+2019,Porsche 911 Carrera S ,"105,000 CR",RARE,7.4,7.4,6.4,6.9,7.9,4.5,S1819,Modern Sports Cars
+1997,Porsche 911 GT1 Strassenversion ,"2,500,000 CR",LEGENDARY,7.2,7.9,6,6.3,8.7,3.9,S1840,Retro Saloons
+1995,Porsche 911 GT2 ,"550,000 CR",EPIC,6.5,6.3,6.7,5.7,5.3,4.5,A753,Retro Supercars
+2012,Porsche 911 GT2 RS ,"240,000 CR",EPIC,7.7,7.6,8,6.3,7.7,4.6,S1860,Track Toys
+2018,Porsche 911 GT2 RS ,"315,000 CR",EPIC,8,8.6,7.5,8.3,8.3,4.2,S1888,Track Toys
+2004,Porsche 911 GT3 ,"65,000 CR",RARE,7.1,6.9,6.4,5.7,5.3,4.8,A778,Retro Supercars
+2016,Porsche 911 GT3 RS ,"235,000 CR",EPIC,7.8,8.3,7.4,7.8,8,4.5,S1864,Track Toys
+2019,Porsche 911 GT3 RS ,"255,000 CR",EPIC,7.2,8.4,7.4,7.6,8.2,4.4,S1860,Track Toys
+2019,Porsche 911 GT3 RS Forza Edition ,"255,000 CR",FORZA EDITION,?,?,?,?,?,?,S1900,Rally Monsters
+1982,Porsche 911 Turbo 3.3 ,"150,000 CR",RARE,5.6,5.2,4.8,2,4.1,5.2,B666,Retro Supercars
+2014,Porsche 911 Turbo S ,"150,000 CR",RARE,7.9,6.6,8.3,9.3,6.7,4.6,S1808,Modern Supercars
+1970,Porsche 914/6 ,"24,000 CR",RARE,4.4,4.2,3.4,2.8,2.5,5.2,D427,Classic Sports Cars
+2014,Porsche 918 Spyder ,"850,000 CR",LEGENDARY,8.8,8.9,10,10,9.3,4.6,S2920,Hypercars
+1989,Porsche 944 Turbo ,"35,000 CR",RARE,5.8,5.3,4.9,2.6,4.1,5.3,B651,Retro Sports Cars
+1993,Porsche 968 Turbo S ,"140,000 CR",RARE,6.2,5.2,5.3,4.5,4.1,4.8,A701,Retro Sports Cars
+1987,Porsche 959 ,"2,000,000 CR",EPIC,7.3,6.2,8.2,4.7,4.9,4.7,A764,Retro Supercars
+2003,Porsche Carrera GT ,"1,000,000 CR",EPIC,7.6,7.1,6.6,7.2,7.5,4.5,S1845,Retro Supercars
+2018,Porsche Cayenne Turbo ,"220,000 CR",RARE,6.7,5.3,7.4,9.8,6,5.9,A744,Sports Utility Heroes
+2016,Porsche Cayman GT4 ,"85,000 CR",RARE,7,8.1,6.8,6.6,7.6,4.2,S1819,Track Toys
+2015,Porsche Cayman GTS ,"80,000 CR",RARE,6.6,6.4,6.1,6.2,5.2,4.6,A767,Modern Sports Cars
+2018,Porsche Macan LPR Rally Raid ,"250,000 CR",EPIC,5.1,3.9,4.7,4.6,4.7,10,B637,Offroad
+2019,Porsche Macan Turbo ,"135,000 CR",RARE,6.2,4.9,5.8,9.4,4,6.3,B695,Sports Utility Heroes
+2017,Porsche Panamera Turbo ,"150,000 CR",RARE,7.6,6.3,7.1,8.2,6.1,5.1,A767,Super Saloons
+2020,Porsche Taycan Turbo S ,"185,000 CR",COMMON,6.1,5.7,8.5,9.6,6,4.4,S1807,Super Saloons
+2020,Porsche Taycan Turbo S ,"185,000 CR",COMMON,10,7.8,9.7,10,7.2,4.4,S1900,Super Saloons
+2015,Radical RXC Turbo ,"330,000 CR",EPIC,7,9.6,7.1,5.8,9,4,S2928,Extreme Track Toys
+2019,RAESR Tachyon Speed Season Events,"1,050,000 CR",LEGENDARY,?,?,?,?,?,?,S2983,Hypercars
+2017,RAM 2500 Power Wagon ,"47,000 CR",COMMON,5.2,3.3,2.8,1.8,2.8,8.9,D467,Pickups & 4x4s
+1972,Reliant Supervan III ,"35,000 CR",COMMON,2.6,3.4,2.2,4.5,2,5.6,D100,Cult Cars
+1968,Renault 4L Export ,"20,000 CR",LEGENDARY,2.2,3.5,1.5,2.3,2,5.8,D100,Cult Cars
+1980,Renault 5 Turbo ,"120,000 CR",RARE,4.6,4.3,4.6,3.4,2.9,6,C521,Retro Rally
+1967,Renault 8 Gordini  ,? CR,COMMON,?,?,?,?,?,?,D435,Classic Muscle
+2013,Renault Clio R.S. 200 EDC ,"29,000 CR",COMMON,5.1,5.1,4.4,4.5,3.6,4.9,C595,Hot Hatch
+1993,Renault Clio Williams ,"30,000 CR",COMMON,4.7,4.8,4,3.1,2.9,4.8,C511,Retro Hot Hatch
+2018,Renault Megane R.S. ,"37,000 CR",RARE,5.7,6,4.5,4.6,4.4,5,B670,Super Hot Hatch
+2008,Renault Megane R26.R ,"28,000 CR",RARE,5.4,6,4.8,4,5.2,4.7,B678,Super Hot Hatch
+2019,Rimac Concept Two ,"2,000,000 CR",LEGENDARY,9.1,7.5,9.9,10,9.3,3.8,S2963,Hypercars
+2016,RJ Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck ,"500,000 CR",EPIC,5.9,3.7,4.5,4.2,5.1,9.9,A776,Unlimited Offroad
+2018,Saleen S1 ,"200,000 CR",EPIC,6.5,7.2,7.2,5.9,6.3,4.7,S1821,Modern Supercars
+2004,Saleen S7 ,"388,000 CR",EPIC,?,?,?,?,?,?,S1855,Retro Supercars
+1965,Shelby Cobra 427 S/C ,"2,100,000 CR",LEGENDARY,5.9,4.1,4.5,4.6,3.2,4.5,B694,Rare Classics
+1965,Shelby Cobra Daytona Coupe ,"30,000,000 CR",LEGENDARY,6.7,3.9,3.7,2.9,2.8,4.7,B637,Classic Racers
+2021,Sierra Cars RX3 ,"45,000 CR",RARE,4.3,5.1,6.4,7.1,5.9,7.7,A737,UTV's
+2013,Subaru BRZ ,"32,000 CR",COMMON,5.7,5.1,4.2,3.6,3.1,4.8,C581,Modern Sports Cars
+1998,Subaru Impreza 22B-STi Version ,"110,000 CR",LEGENDARY,5.6,5.5,5,3.2,3.6,5.3,B640,Retro Rally
+2004,Subaru Impreza WRX STi ,"28,000 CR",COMMON,5.9,5.3,6,3.6,3.6,5.6,B652,Modern Rally
+2005,Subaru Impreza WRX STi ,"51,000 CR",COMMON,6.2,5.3,6.3,3.2,3.6,5.7,B669,Modern Rally
+2008,Subaru Impreza WRX STI ,"31,000 CR",COMMON,5.7,5.5,5.4,3.8,3.7,5.6,B649,Modern Rally
+2019,Subaru STI S209  ,? CR,COMMON,?,?,?,?,?,?,B689,Hypercars
+2011,Subaru WRX STI ,"33,000 CR",COMMON,6,5.7,5.1,2.8,3.9,5.9,B668,Modern Rally
+2015,Subaru WRX STI ,"42,000 CR",COMMON,6,5.7,5.5,3.1,3.9,5.6,B675,Modern Rally
+1993,Toyota #1 T100 Baja Truck ,"500,000 CR",LEGENDARY,4.7,3.7,5.9,6,4.7,10,B693,Unlimited Offroad
+1969,Toyota 2000GT ,"750,000 CR",RARE,5.1,4.3,3.7,2.7,2.6,5,D487,Rare Classics
+1974,Toyota Celica GT ,"20,000 CR",COMMON,4,3.8,2.7,2.5,2,4.9,D315,Classic Sports Cars
+1992,Toyota Celica GT-Four RC ST185 ,"25,000 CR",COMMON,5.8,4.5,4.7,2.9,2.7,5.5,C544,Retro Rally
+1994,Toyota Celica GT-Four ST205 ,"20,000 CR",EPIC,6.1,4.9,5.1,2.9,3,5.3,C590,Retro Rally
+1979,Toyota FJ40 ,"55,000 CR",COMMON,3.4,3,2.4,3.4,2.3,7.5,D269,Pickups & 4x4s
+2020,Toyota GR Supra ,"55,000 CR",RARE,6.2,6.1,5.5,5.8,4.6,4.8,A731,Modern Sports Cars
+2013,Toyota 86 ,"28,800 CR",COMMON,5.5,5.2,5.2,3.6,3.2,4.8,C579,Modern Sports Cars
+1989,Toyota MR2 SC ,"20,000 CR",RARE,5.1,4.7,3.8,3.3,2.8,5.4,C502,Retro Sports Cars
+1985,Toyota Sprinter Trueno GT Apex ,"20,000 CR",RARE,?,?,?,?,?,?,D480,Retro Sports Cars
+1992,Toyota Supra 2.0 GT ,"20,000 CR",RARE,5.4,5.1,4.1,2.7,3,5.1,C558,Retro Sports Cars
+1998,Toyota Supra RZ ,"38,000 CR",COMMON,6.4,5.4,4.6,3.1,3.5,4.7,B646,Retro Sports Cars
+1998,Toyota Supra RZ ,"38,000 CR",COMMON,7.5,6.7,5.9,4.3,5.8,4.1,A800,Retro Sports Cars
+1998,TVR Cerbera Speed 12 ,"500,000 CR",EPIC,8.7,6.7,5.4,5.7,6.6,3.4,S1861,Retro Supercars
+2018,TVR Griffith ,"105,000 CR",RARE,7.2,7.7,5.9,6.3,6.9,4.2,S1825,Modern Sports Cars
+2005,TVR Sagaris ,"86,000 CR",RARE,6.7,6.2,5.3,5.5,5,4.3,A779,Retro Sports Cars
+2015,Ultima Evolution Coupe 1020 ,"300,000 CR",EPIC,8.8,9.5,7.7,8.4,7.9,3.9,S2961,Extreme Track Toys
+2016,Vauxhall Corsa VXR ,"28,000 CR",COMMON,5.1,5.3,3.3,4.2,3.6,4.7,C584,Hot Hatch
+2005,Vauxhall Monaro VXR ,"25,000 CR",COMMON,5.1,5.3,3.3,4.2,3.6,4.7,C584,Modern Muscle
+2017,Volkswagen #34 Volkswagen Andretti Rallycross Beetle ,"500,000 CR",EPIC,4.8,5.6,9.2,4.6,5.9,7.6,S1851,Rally Monsters
+1970,Volkswagen #1107 Desert Dingo Racing Stock Bug ,"25,000 CR",COMMON,3.8,3.4,2.8,2.9,2.3,8.5,D371,Buggies
+1963,Volkswagen Beetle ,"20,000 CR",LEGENDARY,?,?,?,?,?,?,D100,Cult Cars
+1963,Volkswagen Beetle Forza Edition ,"500,000 CR",FORZA EDITION,?,?,?,?,?,?,S1900,Track Toys
+1969,Volkswagen Class 5/1600 Baja Bug ,"60,000 CR",COMMON,3.5,4.6,2.5,4.7,3.1,7.7,D349,Buggies
+1995,Volkswagen Corrado VR6 ,"20,000 CR",COMMON,5.4,4.8,3.6,3.3,2.8,5,C533,Retro Hot Hatch
+1983,Volkswagen Golf GTI ,"20,000 CR",COMMON,4.2,3.9,3.5,3.3,2.4,5,D428,Retro Hot Hatch
+1992,Volkswagen Golf Gti 16v Mk2 ,"20,000 CR",COMMON,4.6,4.4,3.4,2.5,2.4,4.9,D429,Retro Hot Hatch
+2010,Volkswagen Golf R ,"64,000 CR",COMMON,5.8,5.7,5,3.2,3.5,5.5,B645,Super Hot Hatch
+2014,Volkswagen Golf R ,"50,000 CR",COMMON,5.9,5.9,5.8,6.3,3.8,5.5,B663,Super Hot Hatch
+2003,Volkswagen Golf R32 ,"20,000 CR",COMMON,5.6,5.3,5,5.4,3.6,5.4,B618,Hot Hatch
+1998,Volkswagen GTI VR6 Mk3 ,"25,000 CR",COMMON,5.1,4.6,3.7,2.8,2.8,5.1,C510,Retro Hot Hatch
+2011,Volkswagen Scirocco R ,"45,000 CR",COMMON,5.8,5.5,4.6,4.8,4,4.9,B663,Hot Hatch
+1981,Volkswagen Scirocco S ,"20,000 CR",COMMON,3.7,4.3,2.5,2.8,2.1,4.9,D293,Retro Hot Hatch
+1963,Volkswagen Type 2 De Luxe ,"40,000 CR",COMMON,2.6,3.6,1.5,3,2,5.7,D100,Cult Cars
+1983,Volvo 242 Turbo Evolution ,"45,000 CR",COMMON,5,4,4,3.6,3.1,5.5,C548,Classic Rally
+1997,Volvo 850 R ,"25,000 CR",COMMON,5.8,4.3,3.3,2.6,2.5,5,C511,Retro Saloons
+2015,Volvo V60 Polestar ,"62,000 CR",COMMON,6.1,5.9,5.5,3.6,3.9,5.1,B662,Super Saloons
+2017,VUHL 05RR ,"100,000 CR",EPIC,6.8,8.6,8.5,9.2,7.8,3.7,S1886,Track Toys
+1945,Willys MB Jeep ,"40,000 CR",COMMON,2.6,3.7,2,3.3,2.1,7.1,D198,Pickups & 4x4s
+2019,Zenvo TSR-S ,"1,200,000 CR",LEGENDARY,9,8.7,6.7,7.2,9.6,4,S2927,Hypercars
