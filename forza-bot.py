@@ -20,7 +20,7 @@ PI_CLASSES = ["D", "C", "B", "A", "S1", "S2", "X"]
 RACE_TYPES = ["RALLY", "STREET", "OFFROAD"]
 TRACK_IMAGE = "https://cdn.guides4gamers.com/sites/28/screenshots/2021/12/1920/{}.jpg"
 
-with open("token.txt", "r") as token_file:
+with open("config/token.txt", "r") as token_file:
     TOKEN = token_file.read().strip()
 
 if not TOKEN:
@@ -28,23 +28,24 @@ if not TOKEN:
 
 
 class Car(object):
-    def __init__(self, year, vehicle, value, rarity, speed, handle, accel, launch, brake, offroad, pi, car_type):
-        self.year = year
-        self.vehicle = vehicle
-        self.value = value
-        self.rarity = rarity
-        self.speed = speed
-        self.handle = handle
-        self.accel = accel
-        self.launch = launch
-        self.brake = brake
-        self.offroad = offroad
-        self.pi = pi
+    def __init__(self, year, make, model, value, rarity, speed, handle, accel, launch, brake, offroad, pi, car_type):
+        self.year = year.strip()
+        self.make = make.strip()
+        self.model = model.strip()
+        self.value = value.strip()
+        self.rarity = rarity.strip()
+        self.speed = speed.strip()
+        self.handle = handle.strip()
+        self.accel = accel.strip()
+        self.launch = launch.strip()
+        self.brake = brake.strip()
+        self.offroad = offroad.strip()
+        self.pi = pi.strip()
         self.pi_class = self.parse_pi()
         self.car_type = car_type.lower()
 
     def __str__(self):
-        return " ".join([self.year, self.vehicle])
+        return f"{self.year} {self.make} {self.model} {self.pi} {self.value}cr"
 
     def parse_pi(self):
         if self.pi.startswith(("D", "C", "B", "A", "X")):
@@ -85,7 +86,8 @@ class ForzaBotClient(discord.Client):
         self.all_cars = self.get_all_cars()
         self.tracks = tracks
         self.all_tracks = self.get_all_tracks()
-        self.cmd_str = "/forza"
+        self.cmd_str = "!forza"
+        self.cars_by_mfg = self.get_cars_by_mfg()
 
     async def on_ready(self):
         print(f"{self.user} has connected!")
@@ -117,6 +119,14 @@ class ForzaBotClient(discord.Client):
                 all_tracks.append(track)
         return all_tracks
 
+    def get_cars_by_mfg(self):
+        cars_by_mfg = {}
+        for car in self.all_cars:
+            if car.make.lower() not in cars_by_mfg:
+                cars_by_mfg[car.make.lower()] = []
+            cars_by_mfg[car.make.lower()].append(car)
+        return cars_by_mfg
+
     def message_handler(self, message):
         cmds = {
                     "test": self.handle_test,
@@ -136,11 +146,11 @@ class ForzaBotClient(discord.Client):
         handle = cmds.get(cmd[0])
 
         if handle:
-            return "{}".format(handle(cmd))
+            return handle(cmd)
         return "Command not supported"
 
     def handle_test(self, cmd):
-        return "Test command worked!"
+        return "```I'm alive!```"
 
     def handle_new_car(self, cmd):
         random.shuffle(self.car_types)
@@ -157,21 +167,59 @@ class ForzaBotClient(discord.Client):
         return "```Type: {}\nClass: {}\nRace: {}```".format(car_type, perf_class, race_type)
 
     def handle_list(self, cmd):
-        if len(cmd) == 1:
-            return "I need either 'types' or <type>"
+        cmds = {"types": self._list_types,
+                "type": self._list_type,
+                "mfg": self._list_manufacturer,
+                "mfr": self._list_manufacturer}
 
-        list_cmd = " ".join(cmd[1::]).lower()
+        if len(cmd) < 2:
+            return "```I need to know what thing to list```"
 
-        if cmd[1] == "types":
-            return "```" + "\n".join(sorted(self.car_types)) + "```"
-        if list_cmd in self.car_types:
-            return "```" + "\n".join([str(i) for i in self.cars[list_cmd]]) + "```"
-        return "I don't recognize that car type sorry"
+        handle = cmds.get(cmd[1])
+
+        if handle:
+            return handle(cmd)
+        else:
+            return f"```Sorry, I don't recognize command {cmd[1]}```"
+
+    def _list_types(self, cmd):
+        types = "\n".join(sorted(self.car_types))
+        return f"```{types}```"
+
+    def _list_type(self, cmd):
+        if len(cmd) < 3:
+            return "```I need to know what type of car to list```"
+
+        car_type = " ".join(cmd[2::]).lower()
+
+        if car_type in self.car_types:
+            cars_of_type = "\n".join(str(i) for i in self.cars[car_type])
+            return f"```{cars_of_type}```"
+        else:
+            return f"```Sorry I don't recognize type {car_type}```"
+
+    def _list_manufacturer(self, cmd):
+        if len(cmd) == 2:
+            mfgs = "\n".join(self.cars_by_mfg)
+            return f"```{mfgs}```"
+
+        mfg = cmd[2].lower()
+
+        if mfg not in self.cars_by_mfg:
+            return "```Sorrt I don't know that manufacturer```"
+        
+        cars_from_mfg = "\n".join(str(i) for i in self.cars_by_mfg[mfg])
+        return f"```{cars_from_mfg}```"
 
     def handle_random_car(self, cmd):
         if len(cmd) == 1:
             random.shuffle(self.all_cars)
             return str(self.all_cars[0])
+
+        if len(cmd[1]) == 1:
+            class_cars = [i for i in self.all_cars if i.pi_class == cmd[1].upper()]
+            random.shuffle(class_cars)
+            return str(class_cars[0])
 
         random_cmd = " ".join(cmd[1::]).lower()
         if random_cmd in self.car_types:
@@ -227,7 +275,10 @@ class ForzaBotClient(discord.Client):
 
 * new-car - Prints a random car type, class, and PI. 
 
-* list [car-type] - Lists all the car types. If [car-type] is provided list all the cars of that type.
+* list types - List all car types.
+* list type [car-type] - List all cars of the provided type.
+* list mfg - List all manufacturers.
+* list mfg [mfg] - List all cars made by the provided manufacturer.
 
 * random [car-type] - Print a random car. If [car-type] is provided instead print a random car of that type.
 
@@ -288,11 +339,6 @@ def lowest_class(cars):
 if __name__ == "__main__":
     cars = parse_cars(CAR_CSV)
     tracks = parse_tracks(TRACK_CSV)
-
-    for car_type, car_list in cars.items():
-        print("Type: {}".format(car_type))
-        for car in car_list:
-            print("   {}".format(str(car)))
 
     client = ForzaBotClient(cars, tracks)
     client.run(TOKEN)
