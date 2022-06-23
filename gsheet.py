@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import gspread
 
-AUTH = "/config/auth.json"
+AUTH = "/home/git/forza-bot/config/auth.json"
 SHEET_ID = "1mIJQIalcnsRUkwReVpmMlcaw17dYZtk-Xejwk_jSFJo"
 
 
