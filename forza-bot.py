@@ -4,6 +4,7 @@ import csv
 import sys
 import random
 import discord
+import gsheet
 
 """
 TODO: Some new commands
@@ -139,6 +140,7 @@ class ForzaBotClient(discord.Client):
                     "ship": self.handle_championship,
                     "help": self.handle_help,
                     "halp": self.handle_help,
+                    "weekly": self.handle_weekly,
                }
 
         cmd = self.get_cmd(message)
@@ -151,6 +153,9 @@ class ForzaBotClient(discord.Client):
 
     def handle_test(self, cmd):
         return "```I'm alive!```"
+
+    def handle_weekly(self, cmd):
+        return gsheet.main()
 
     def handle_new_car(self, cmd):
         random.shuffle(self.car_types)
