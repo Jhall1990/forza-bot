@@ -33,3 +33,4 @@ def get_sheet_from_google(auth, sheet_id):
 def main():
     sheet_data = get_sheet_from_google(AUTH, SHEET_ID)
     events = get_events(sheet_data)
+    return "\n".join(str(i) for i in events)
