@@ -117,7 +117,6 @@ class ForzaBotClient(discord.Client):
         if new_events != CUR_EVENT:
             CUR_EVENT = new_events
             channel = self.get_channel(FORZA_CHANNEL)
-            assert channel
             await channel.send(str(CUR_EVENT))
 
     def get_cmd(self, message):

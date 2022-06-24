@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import gspread
 
-AUTH = "/home/git/forza-bot/config/auth.json"
+AUTH = "config/auth.json"
 SHEET_ID = "1mIJQIalcnsRUkwReVpmMlcaw17dYZtk-Xejwk_jSFJo"
 
 
@@ -17,6 +17,9 @@ class Events(object):
 
     def __hash__(self):
         return hash((hash(i) for i in self.events))
+
+    def __eq__(self, other):
+        return hash(self) == hash(other)
 
 class Event(object):
     def __init__(self, name, restriction):
