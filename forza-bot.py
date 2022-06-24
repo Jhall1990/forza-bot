@@ -4,6 +4,7 @@ import csv
 import sys
 import random
 import discord
+from discord.ext import tasks
 import gsheet
 
 """
@@ -20,12 +21,16 @@ TRACK_CSV = "tracks.csv"
 PI_CLASSES = ["D", "C", "B", "A", "S1", "S2", "X"]
 RACE_TYPES = ["RALLY", "STREET", "OFFROAD"]
 TRACK_IMAGE = "https://cdn.guides4gamers.com/sites/28/screenshots/2021/12/1920/{}.jpg"
+FORZA_CHANNEL = 908733077902213150
+TOKEN = "config/token.txt"
 
-with open("config/token.txt", "r") as token_file:
+with open(TOKEN, "r") as token_file:
     TOKEN = token_file.read().strip()
 
 if not TOKEN:
     sys.exit( "No discord token found" )
+
+CUR_EVENT = None
 
 
 class Car(object):
@@ -92,6 +97,7 @@ class ForzaBotClient(discord.Client):
 
     async def on_ready(self):
         print(f"{self.user} has connected!")
+        self.update_events.start()
 
     async def on_message(self, message):
         # The bot sent the message, send no reply.
@@ -102,6 +108,17 @@ class ForzaBotClient(discord.Client):
             response = self.message_handler(message.content)
             await message.channel.send(response)
         return
+
+    @tasks.loop(minutes=60)
+    async def update_events(self):
+        global CUR_EVENT
+        new_events = gsheet.main()
+
+        if new_events != CUR_EVENT:
+            CUR_EVENT = new_events
+            channel = self.get_channel(FORZA_CHANNEL)
+            assert channel
+            await channel.send(str(CUR_EVENT))
 
     def get_cmd(self, message):
         return list(i.lower() for i in message.lstrip(self.cmd_str).split())
@@ -155,7 +172,10 @@ class ForzaBotClient(discord.Client):
         return "```I'm alive!```"
 
     def handle_weekly(self, cmd):
-        return gsheet.main()
+        global CUR_EVENT
+        if not CUR_EVENT:
+            CUR_EVENT = gsheet.main()
+        return str(CUR_EVENT)
 
     def handle_new_car(self, cmd):
         random.shuffle(self.car_types)
