@@ -15,11 +15,23 @@ class Events(object):
     def __str__(self):
         return "\n".join(str(i) for i in self.events)
 
-    def __hash__(self):
-        return hash((hash(i) for i in self.events))
-
     def __eq__(self, other):
         return hash(self) == hash(other)
+
+    def __eq__(self, other):
+        if not other:
+            return False
+
+        if len(self.events) != len(other.events):
+            return False
+
+        for idx, event in enumerate( self.events ):
+            if event.name != other.events[idx].name:
+                return False
+            if event.restriction != other.events[idx].restriction:
+                return False
+        return True
+            
 
 class Event(object):
     def __init__(self, name, restriction):

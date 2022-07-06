@@ -109,7 +109,7 @@ class ForzaBotClient(discord.Client):
             await message.channel.send(response)
         return
 
-    @tasks.loop(minutes=60)
+    @tasks.loop(minutes=30)
     async def update_events(self):
         global CUR_EVENT
         new_events = gsheet.main()
