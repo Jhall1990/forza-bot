@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import hashlib
 import gspread
 
 AUTH = "config/auth.json"
@@ -16,9 +17,6 @@ class Events(object):
         return "\n".join(str(i) for i in self.events)
 
     def __eq__(self, other):
-        return hash(self) == hash(other)
-
-    def __eq__(self, other):
         if not other:
             return False
 
@@ -31,6 +29,9 @@ class Events(object):
             if event.restriction != other.events[idx].restriction:
                 return False
         return True
+
+    def checksum(self):
+        return hashlib.sha256("".join(i.checksum() for i in self.events).encode("utf-8")).hexdigest()
             
 
 class Event(object):
@@ -38,8 +39,12 @@ class Event(object):
         self.name = name
         self.restriction = restriction
 
+    def checksum(self):
+        return hashlib.sha256(f"{self.name}{self.restriction}".encode("utf-8")).hexdigest()
+
     def __str__(self):
         return f"**{self.name}** - {self.restriction}"
+
 
 def get_events(sheet):
     events = Events()
@@ -53,10 +58,12 @@ def get_events(sheet):
             events.add_event(line[0], line[1])
     return events
 
+
 def get_sheet_from_google(auth, sheet_id):
     gc = gspread.service_account(filename=auth)
     sh = gc.open_by_key("1mIJQIalcnsRUkwReVpmMlcaw17dYZtk-Xejwk_jSFJo")
     return sh.sheet1.get_all_values()
+
 
 def main():
     sheet_data = get_sheet_from_google(AUTH, SHEET_ID)

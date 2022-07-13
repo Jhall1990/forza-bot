@@ -23,6 +23,7 @@ RACE_TYPES = ["RALLY", "STREET", "OFFROAD"]
 TRACK_IMAGE = "https://cdn.guides4gamers.com/sites/28/screenshots/2021/12/1920/{}.jpg"
 FORZA_CHANNEL = 908733077902213150
 TOKEN = "config/token.txt"
+EVENTS_FILE = "config/events.sum"
 
 with open(TOKEN, "r") as token_file:
     TOKEN = token_file.read().strip()
@@ -114,10 +115,27 @@ class ForzaBotClient(discord.Client):
         global CUR_EVENT
         new_events = gsheet.main()
 
-        if new_events != CUR_EVENT:
-            CUR_EVENT = new_events
-            channel = self.get_channel(FORZA_CHANNEL)
-            await channel.send(str(CUR_EVENT))
+        cur_hash = self.get_cur_event_hash()
+
+        if cur_hash and cur_hash == new_events.checksum():
+            return
+
+        CUR_EVENT = new_events
+        channel = self.get_channel(FORZA_CHANNEL)
+        self.update_event_file(new_events)
+        await channel.send(str(CUR_EVENT))
+
+    def get_cur_event_hash(self):
+        try:
+            with open(EVENTS_FILE, "r") as event_file:
+                cur_hash = event_file.read().strip()
+        except FileNotFoundError:
+            cur_hash = None
+        return cur_hash
+
+    def update_event_file(self, events):
+        with open(EVENTS_FILE, "w") as event_file:
+            event_file.write(events.checksum())
 
     def get_cmd(self, message):
         return list(i.lower() for i in message.lstrip(self.cmd_str).split())
