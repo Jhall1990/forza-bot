@@ -50,6 +50,10 @@ def get_events(sheet):
     events = Events()
 
     for line in sheet[1:]:
+        # Skip lines that start with ( they are basically just comments
+        if line[0] and line[0] == "(":
+            continue
+
         if line[0]:
             events.add_event(line[0], line[1])
     return events
