@@ -50,10 +50,6 @@ def get_events(sheet):
     events = Events()
 
     for line in sheet[1:]:
-        # We hit the end of the events section, that's all we care about, break
-        if line[0].isupper():
-            break
-
         if line[0]:
             events.add_event(line[0], line[1])
     return events
