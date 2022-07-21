@@ -51,9 +51,7 @@ def get_events(sheet):
 
     for line in sheet[1:]:
         # Skip lines that start with ( they are basically just comments
-        print( line )
-        print( repr( line ) )
-        if line[0] and line[0] == "(":
+        if line[0] and line[0][0] == "(":
             continue
 
         if line[0]:
