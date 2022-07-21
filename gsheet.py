@@ -55,8 +55,7 @@ def get_events(sheet):
             continue
 
         # Skip header lines
-        if line[0] and line[0][0].isupper():
-            print( "Skipping line {line[0]}" )
+        if line[0] and line[0].isupper():
             continue
 
         if line[0]:
