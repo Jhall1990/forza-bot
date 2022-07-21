@@ -54,6 +54,10 @@ def get_events(sheet):
         if line[0] and line[0][0] == "(":
             continue
 
+        # Skip header lines
+        if line[0] and line[0][0].isupper():
+            continue
+
         if line[0]:
             events.add_event(line[0], line[1])
     return events
