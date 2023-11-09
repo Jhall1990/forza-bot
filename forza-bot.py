@@ -98,7 +98,9 @@ class ForzaBotClient(discord.Client):
 
     async def on_ready(self):
         print(f"{self.user} has connected!")
-        self.update_events.start()
+        # Don't need this at the moment as it only works for FH5 and
+        # we haven't been playing that.
+        # self.update_events.start()
 
     async def on_message(self, message):
         # The bot sent the message, send no reply.
